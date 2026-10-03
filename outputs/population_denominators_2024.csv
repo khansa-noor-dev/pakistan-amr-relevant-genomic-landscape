@@ -1,0 +1,5 @@
+country,world_bank_code,population_2024,indicator,year,retrieval_date,source_endpoint
+Pakistan,PAK,251269164,SP.POP.TOTL,2024,2026-10-02,https://api.worldbank.org/v2/country/PAK;IND;BGD;GBR/indicator/SP.POP.TOTL?format=json&date=2024&per_page=20
+India,IND,1450935791,SP.POP.TOTL,2024,2026-10-02,https://api.worldbank.org/v2/country/PAK;IND;BGD;GBR/indicator/SP.POP.TOTL?format=json&date=2024&per_page=20
+Bangladesh,BGD,173562364,SP.POP.TOTL,2024,2026-10-02,https://api.worldbank.org/v2/country/PAK;IND;BGD;GBR/indicator/SP.POP.TOTL?format=json&date=2024&per_page=20
+United Kingdom,GBR,69281000,SP.POP.TOTL,2024,2026-10-02,https://api.worldbank.org/v2/country/PAK;IND;BGD;GBR/indicator/SP.POP.TOTL?format=json&date=2024&per_page=20

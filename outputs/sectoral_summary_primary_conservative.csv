@@ -1,0 +1,43 @@
+search_pathogen,search_country,sector,count
+Escherichia coli,Bangladesh,Animal,35
+Escherichia coli,Bangladesh,Environmental,34
+Escherichia coli,Bangladesh,Human,368
+Escherichia coli,Bangladesh,Unclassified,2
+Escherichia coli,India,Animal,23
+Escherichia coli,India,Environmental,105
+Escherichia coli,India,Human,116
+Escherichia coli,India,Unclassified,70
+Escherichia coli,Pakistan,Animal,327
+Escherichia coli,Pakistan,Environmental,46
+Escherichia coli,Pakistan,Human,60
+Escherichia coli,Pakistan,Unclassified,40
+Escherichia coli,United Kingdom,Human,1
+Escherichia coli,United Kingdom,Unclassified,227
+Klebsiella pneumoniae,Bangladesh,Animal,4
+Klebsiella pneumoniae,Bangladesh,Environmental,2
+Klebsiella pneumoniae,Bangladesh,Human,70
+Klebsiella pneumoniae,Bangladesh,Unclassified,184
+Klebsiella pneumoniae,India,Animal,8
+Klebsiella pneumoniae,India,Environmental,40
+Klebsiella pneumoniae,India,Human,325
+Klebsiella pneumoniae,India,Unclassified,86
+Klebsiella pneumoniae,Pakistan,Animal,9
+Klebsiella pneumoniae,Pakistan,Environmental,33
+Klebsiella pneumoniae,Pakistan,Human,267
+Klebsiella pneumoniae,United Kingdom,Environmental,305
+Klebsiella pneumoniae,United Kingdom,Human,189
+Klebsiella pneumoniae,United Kingdom,Unclassified,5
+Salmonella,Bangladesh,Animal,81
+Salmonella,Bangladesh,Human,21
+Salmonella,Bangladesh,Unclassified,53
+Salmonella,India,Animal,43
+Salmonella,India,Food/Plant,4
+Salmonella,India,Human,351
+Salmonella,India,Unclassified,66
+Salmonella,Pakistan,Animal,43
+Salmonella,Pakistan,Food/Plant,2
+Salmonella,Pakistan,Human,192
+Salmonella,Pakistan,Unclassified,263
+Salmonella,United Kingdom,Animal,96
+Salmonella,United Kingdom,Human,328
+Salmonella,United Kingdom,Unclassified,18

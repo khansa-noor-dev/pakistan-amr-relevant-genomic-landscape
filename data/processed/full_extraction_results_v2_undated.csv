@@ -1,0 +1,684 @@
+search_pathogen,search_country,biosample_id,accession,organism,geo_loc_name,isolation_source,collection_date,host,host_disease,genotype,geo_loc_name_quality,isolation_source_quality,host_quality
+Escherichia coli,Pakistan,2640758,SAMN02640758,Escherichia coli,Pakistan,,not applicable,Homo sapiens,,,Valid,Missing,Valid
+Escherichia coli,Pakistan,2640757,SAMN02640757,Escherichia coli,Pakistan,,not applicable,Homo sapiens,,,Valid,Missing,Valid
+Escherichia coli,Pakistan,2640735,SAMN02640735,Escherichia coli,Pakistan,,not applicable,Homo sapiens,,,Valid,Missing,Valid
+Escherichia coli,Pakistan,2640734,SAMN02640734,Escherichia coli,Pakistan,,not applicable,Homo sapiens,,,Valid,Missing,Valid
+Escherichia coli,Pakistan,2640712,SAMN02640712,Escherichia coli,Pakistan,,not applicable,Homo sapiens,,,Valid,Missing,Valid
+Escherichia coli,Pakistan,2640711,SAMN02640711,Escherichia coli,Pakistan,,not applicable,Homo sapiens,,,Valid,Missing,Valid
+Escherichia coli,India,50103315,SAMN50103315,Escherichia coli,not applicable,,not applicable,,,,Malformed,Missing,Missing
+Escherichia coli,India,50103314,SAMN50103314,Escherichia coli,not applicable,,not applicable,,,,Malformed,Missing,Missing
+Escherichia coli,India,50103313,SAMN50103313,Escherichia coli,not applicable,,not applicable,,,,Malformed,Missing,Missing
+Escherichia coli,India,50103312,SAMN50103312,Escherichia coli,not applicable,,not applicable,,,,Malformed,Missing,Missing
+Escherichia coli,India,50103311,SAMN50103311,Escherichia coli,not applicable,,not applicable,,,,Malformed,Missing,Missing
+Escherichia coli,India,48220914,SAMN48220914,Escherichia coli str. K-12 substr. MG1655,India: Chandigarh,E. coli cell pellet grown under toxin induced conditions,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,India,48220913,SAMN48220913,Escherichia coli str. K-12 substr. MG1655,India: Chandigarh,E. coli cell pellet grown under toxin induced conditions,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,India,48220912,SAMN48220912,Escherichia coli str. K-12 substr. MG1655,India: Chandigarh,E. coli cell pellet grown under toxin induced conditions,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,India,48220911,SAMN48220911,Escherichia coli str. K-12 substr. MG1655,India: Chandigarh,E. coli cell pellet grown under toxin induced conditions,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,India,47337201,SAMN47337201,Escherichia coli,not applicable,,not applicable,,,,Malformed,Missing,Missing
+Escherichia coli,India,47337200,SAMN47337200,Escherichia coli,not applicable,,not applicable,,,,Malformed,Missing,Missing
+Escherichia coli,India,47337199,SAMN47337199,Escherichia coli,not applicable,,not applicable,,,,Malformed,Missing,Missing
+Escherichia coli,India,47337198,SAMN47337198,Escherichia coli,not applicable,,not applicable,,,,Malformed,Missing,Missing
+Escherichia coli,India,47337197,SAMN47337197,Escherichia coli,not applicable,,not applicable,,,,Malformed,Missing,Missing
+Escherichia coli,India,47337196,SAMN47337196,Escherichia coli,not applicable,,not applicable,,,,Malformed,Missing,Missing
+Escherichia coli,India,47337195,SAMN47337195,Escherichia coli,not applicable,,not applicable,,,,Malformed,Missing,Missing
+Escherichia coli,India,47337194,SAMN47337194,Escherichia coli,not applicable,,not applicable,,,,Malformed,Missing,Missing
+Escherichia coli,India,47337193,SAMN47337193,Escherichia coli,not applicable,,not applicable,,,,Malformed,Missing,Missing
+Escherichia coli,India,47337192,SAMN47337192,Escherichia coli,not applicable,,not applicable,,,,Malformed,Missing,Missing
+Escherichia coli,India,47337191,SAMN47337191,Escherichia coli,not applicable,,not applicable,,,,Malformed,Missing,Missing
+Escherichia coli,India,47337190,SAMN47337190,Escherichia coli,not applicable,,not applicable,,,,Malformed,Missing,Missing
+Escherichia coli,India,47337189,SAMN47337189,Escherichia coli,not applicable,,not applicable,,,,Malformed,Missing,Missing
+Escherichia coli,India,47337188,SAMN47337188,Escherichia coli,not applicable,,not applicable,,,,Malformed,Missing,Missing
+Escherichia coli,India,47337187,SAMN47337187,Escherichia coli,not applicable,,not applicable,,,,Malformed,Missing,Missing
+Escherichia coli,India,47337186,SAMN47337186,Escherichia coli,not applicable,,not applicable,,,,Malformed,Missing,Missing
+Escherichia coli,India,47337185,SAMN47337185,Escherichia coli,not applicable,,not applicable,,,,Malformed,Missing,Missing
+Escherichia coli,India,47337184,SAMN47337184,Escherichia coli,not applicable,,not applicable,,,,Malformed,Missing,Missing
+Escherichia coli,India,47337183,SAMN47337183,Escherichia coli,not applicable,,not applicable,,,,Malformed,Missing,Missing
+Escherichia coli,India,47337182,SAMN47337182,Escherichia coli,not applicable,,not applicable,,,,Malformed,Missing,Missing
+Escherichia coli,India,47337181,SAMN47337181,Escherichia coli,not applicable,,not applicable,,,,Malformed,Missing,Missing
+Escherichia coli,India,47337180,SAMN47337180,Escherichia coli,not applicable,,not applicable,,,,Malformed,Missing,Missing
+Escherichia coli,India,47337179,SAMN47337179,Escherichia coli,not applicable,,not applicable,,,,Malformed,Missing,Missing
+Escherichia coli,India,47337178,SAMN47337178,Escherichia coli,not applicable,,not applicable,,,,Malformed,Missing,Missing
+Escherichia coli,India,47337177,SAMN47337177,Escherichia coli,not applicable,,not applicable,,,,Malformed,Missing,Missing
+Escherichia coli,India,47337176,SAMN47337176,Escherichia coli,not applicable,,not applicable,,,,Malformed,Missing,Missing
+Escherichia coli,India,47337175,SAMN47337175,Escherichia coli,not applicable,,not applicable,,,,Malformed,Missing,Missing
+Escherichia coli,India,47337174,SAMN47337174,Escherichia coli,not applicable,,not applicable,,,,Malformed,Missing,Missing
+Escherichia coli,India,47337173,SAMN47337173,Escherichia coli,not applicable,,not applicable,,,,Malformed,Missing,Missing
+Escherichia coli,India,47337172,SAMN47337172,Escherichia coli,not applicable,,not applicable,,,,Malformed,Missing,Missing
+Escherichia coli,India,42495695,SAMN42495695,Escherichia coli,India,stool sample,not applicable,Homo sapiens,,,Valid,Valid,Valid
+Escherichia coli,India,42495651,SAMN42495651,Escherichia coli,India,stool sample,not applicable,Homo sapiens,,,Valid,Valid,Valid
+Escherichia coli,India,42495567,SAMN42495567,Escherichia coli,India,stool sample,not applicable,Homo sapiens,,,Valid,Valid,Valid
+Escherichia coli,India,42495530,SAMN42495530,Escherichia coli,India,stool sample,not applicable,Homo sapiens,,,Valid,Valid,Valid
+Escherichia coli,India,42495515,SAMN42495515,Escherichia coli,India,stool sample,not applicable,Homo sapiens,,,Valid,Valid,Valid
+Escherichia coli,India,42495474,SAMN42495474,Escherichia coli,India,stool sample,not applicable,Homo sapiens,,,Valid,Valid,Valid
+Escherichia coli,India,42021408,SAMN42021408,Escherichia coli,not applicable,,not applicable,,,,Malformed,Missing,Missing
+Escherichia coli,India,14514428,SAMN14514428,Escherichia coli,India:New Delhi,not applicable,not applicable,not applicable,,,Valid,Malformed,Malformed
+Escherichia coli,India,14514427,SAMN14514427,Escherichia coli,India:New Delhi,not applicable,not applicable,not applicable,,,Valid,Malformed,Malformed
+Escherichia coli,India,14485371,SAMN14485371,Escherichia coli,India: New Delhi,not applicable,not applicable,,,,Valid,Malformed,Missing
+Escherichia coli,India,14485370,SAMN14485370,Escherichia coli,India: New Delhi,not applicable,not applicable,,,,Valid,Malformed,Missing
+Escherichia coli,India,14485369,SAMN14485369,Escherichia coli,India: New Delhi,not applicable,not applicable,,,,Valid,Malformed,Missing
+Escherichia coli,India,14485368,SAMN14485368,Escherichia coli,India: New Delhi,not applicable,not applicable,,,,Valid,Malformed,Missing
+Escherichia coli,India,13921481,SAMN13921481,Escherichia coli KL16,India: Bangalore,,missing,Laboratory,,,Valid,Missing,Valid
+Escherichia coli,India,33657672,SAMN33657672,Escherichia coli,India: Vellore,missing,missing,Homo sapiens,restricted access,,Valid,Malformed,Valid
+Escherichia coli,India,33657670,SAMN33657670,Escherichia coli,India: Vellore,missing,missing,Homo sapiens,restricted access,,Valid,Malformed,Valid
+Escherichia coli,Bangladesh,54195611,SAMN54195611,Escherichia coli,Bangladesh,feces,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,Bangladesh,54195610,SAMN54195610,Escherichia coli,Bangladesh,feces,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,Bangladesh,54195609,SAMN54195609,Escherichia coli,Bangladesh,feces,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,Bangladesh,54195608,SAMN54195608,Escherichia coli,Bangladesh,feces,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,Bangladesh,54195607,SAMN54195607,Escherichia coli,Bangladesh,feces,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,Bangladesh,8161206,SAMN08161206,Escherichia coli,Bangladesh,stool,missing,Homo sapiens,diarrhea,,Valid,Valid,Valid
+Escherichia coli,Bangladesh,54085350,SAMEA115009165,Escherichia coli,Bangladesh,,not collected,,,,Valid,Missing,Missing
+Escherichia coli,Bangladesh,54084284,SAMEA115012011,Escherichia coli,Bangladesh,,not collected,,,,Valid,Missing,Missing
+Escherichia coli,Bangladesh,54081860,SAMEA114991716,Escherichia coli,Bangladesh,,not collected,,,,Valid,Missing,Missing
+Escherichia coli,Bangladesh,54081262,SAMEA114970801,Escherichia coli,Bangladesh,,not collected,,,,Valid,Missing,Missing
+Escherichia coli,Bangladesh,54077868,SAMEA114984951,Escherichia coli,Bangladesh,,not collected,,,,Valid,Missing,Missing
+Escherichia coli,Bangladesh,54070480,SAMEA114976438,Escherichia coli,Bangladesh,,not collected,,,,Valid,Missing,Missing
+Escherichia coli,Bangladesh,54069698,SAMEA115005246,Escherichia coli,Bangladesh,,not collected,,,,Valid,Missing,Missing
+Escherichia coli,Bangladesh,54067726,SAMEA114966471,Escherichia coli,Bangladesh,,not collected,,,,Valid,Missing,Missing
+Escherichia coli,Bangladesh,54063717,SAMEA114988870,Escherichia coli,Bangladesh,,not collected,,,,Valid,Missing,Missing
+Escherichia coli,Bangladesh,54055694,SAMEA115002400,Escherichia coli,Bangladesh,,not collected,,,,Valid,Missing,Missing
+Escherichia coli,Bangladesh,54049642,SAMEA114998481,Escherichia coli,Bangladesh,,not collected,,,,Valid,Missing,Missing
+Escherichia coli,Bangladesh,54046796,SAMEA114995635,Escherichia coli,Bangladesh,,not collected,,,,Valid,Missing,Missing
+Escherichia coli,Bangladesh,54042548,SAMEA114982105,Escherichia coli,Bangladesh,,not collected,,,,Valid,Missing,Missing
+Escherichia coli,Bangladesh,54041163,SAMEA114978606,Escherichia coli,Bangladesh,,not collected,,,,Valid,Missing,Missing
+Escherichia coli,Bangladesh,54038230,SAMEA114973198,Escherichia coli,Bangladesh,,not collected,,,,Valid,Missing,Missing
+Escherichia coli,Bangladesh,54033588,SAMEA114961685,Escherichia coli,Bangladesh,,not collected,,,,Valid,Missing,Missing
+Escherichia coli,Bangladesh,54032725,SAMEA114960822,Escherichia coli,Bangladesh,,not collected,,,,Valid,Missing,Missing
+Escherichia coli,Bangladesh,54027087,SAMEA114955185,Escherichia coli,Bangladesh,,not collected,,,,Valid,Missing,Missing
+Escherichia coli,Bangladesh,54024641,SAMEA114952729,Escherichia coli,Bangladesh,,not collected,,,,Valid,Missing,Missing
+Escherichia coli,Bangladesh,54009413,SAMEA114937515,Escherichia coli,Bangladesh,,not collected,,,,Valid,Missing,Missing
+Escherichia coli,Bangladesh,54006567,SAMEA114934669,Escherichia coli,Bangladesh,,not collected,,,,Valid,Missing,Missing
+Escherichia coli,Bangladesh,54002648,SAMEA114930750,Escherichia coli,Bangladesh,,not collected,,,,Valid,Missing,Missing
+Escherichia coli,Bangladesh,53999802,SAMEA114927856,Escherichia coli,Bangladesh,,not collected,,,,Valid,Missing,Missing
+Escherichia coli,Bangladesh,53996104,SAMEA114924170,Escherichia coli,Bangladesh,,not collected,,,,Valid,Missing,Missing
+Escherichia coli,Bangladesh,53993025,SAMEA114921091,Escherichia coli,Bangladesh,,not collected,,,,Valid,Missing,Missing
+Escherichia coli,Bangladesh,53991680,SAMEA114919746,Escherichia coli,Bangladesh,,not collected,,,,Valid,Missing,Missing
+Escherichia coli,Bangladesh,53986260,SAMEA114914326,Escherichia coli,Bangladesh,,not collected,,,,Valid,Missing,Missing
+Escherichia coli,Bangladesh,53982340,SAMEA114910375,Escherichia coli,Bangladesh,,not collected,,,,Valid,Missing,Missing
+Escherichia coli,Bangladesh,53979494,SAMEA114907529,Escherichia coli,Bangladesh,,not collected,,,,Valid,Missing,Missing
+Escherichia coli,Bangladesh,53975782,SAMEA114903817,Escherichia coli,Bangladesh,,not collected,,,,Valid,Missing,Missing
+Escherichia coli,Bangladesh,53972713,SAMEA114900764,Escherichia coli,Bangladesh,,not collected,,,,Valid,Missing,Missing
+Escherichia coli,Bangladesh,53969310,SAMEA114897358,Escherichia coli,Bangladesh,,not collected,,,,Valid,Missing,Missing
+Escherichia coli,Bangladesh,53965930,SAMEA114893996,Escherichia coli,Bangladesh,,not collected,,,,Valid,Missing,Missing
+Escherichia coli,Bangladesh,53962138,SAMEA114890204,Escherichia coli,Bangladesh,,not collected,,,,Valid,Missing,Missing
+Escherichia coli,Bangladesh,53959155,SAMEA114887231,Escherichia coli,Bangladesh,,not collected,,,,Valid,Missing,Missing
+Escherichia coli,Bangladesh,53955340,SAMEA114883385,Escherichia coli,Bangladesh,,not collected,,,,Valid,Missing,Missing
+Escherichia coli,Bangladesh,53952390,SAMEA114880435,Escherichia coli,Bangladesh,,not collected,,,,Valid,Missing,Missing
+Escherichia coli,Bangladesh,53948471,SAMEA114876515,Escherichia coli,Bangladesh,,not collected,,,,Valid,Missing,Missing
+Escherichia coli,Bangladesh,53945625,SAMEA114873669,Escherichia coli,Bangladesh,,not collected,,,,Valid,Missing,Missing
+Escherichia coli,Bangladesh,54020123,SAMEA114948225,Escherichia coli,Bangladesh,,not collected,,,,Valid,Missing,Missing
+Escherichia coli,Bangladesh,54019088,SAMEA114947190,Escherichia coli,Bangladesh,,not collected,,,,Valid,Missing,Missing
+Escherichia coli,Bangladesh,54014340,SAMEA114942442,Escherichia coli,Bangladesh,,not collected,,,,Valid,Missing,Missing
+Escherichia coli,Bangladesh,53941689,SAMEA114869748,Escherichia coli,Bangladesh,,not collected,,,,Valid,Missing,Missing
+Escherichia coli,Bangladesh,53938843,SAMEA114866902,Escherichia coli,Bangladesh,,not collected,,,,Valid,Missing,Missing
+Escherichia coli,United Kingdom,49889765,SAMN49889765,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889764,SAMN49889764,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889763,SAMN49889763,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889762,SAMN49889762,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889761,SAMN49889761,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889760,SAMN49889760,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889759,SAMN49889759,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889758,SAMN49889758,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889757,SAMN49889757,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889756,SAMN49889756,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889755,SAMN49889755,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889754,SAMN49889754,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889753,SAMN49889753,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889752,SAMN49889752,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889751,SAMN49889751,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889750,SAMN49889750,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889749,SAMN49889749,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889748,SAMN49889748,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889747,SAMN49889747,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889746,SAMN49889746,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889745,SAMN49889745,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889743,SAMN49889743,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889742,SAMN49889742,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889741,SAMN49889741,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889740,SAMN49889740,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889739,SAMN49889739,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889738,SAMN49889738,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889737,SAMN49889737,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889736,SAMN49889736,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889735,SAMN49889735,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889734,SAMN49889734,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889733,SAMN49889733,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889732,SAMN49889732,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889730,SAMN49889730,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889729,SAMN49889729,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889728,SAMN49889728,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889727,SAMN49889727,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889726,SAMN49889726,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889725,SAMN49889725,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889724,SAMN49889724,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889723,SAMN49889723,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889722,SAMN49889722,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889721,SAMN49889721,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889720,SAMN49889720,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889719,SAMN49889719,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889718,SAMN49889718,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889717,SAMN49889717,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889716,SAMN49889716,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889715,SAMN49889715,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889714,SAMN49889714,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889713,SAMN49889713,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889712,SAMN49889712,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889711,SAMN49889711,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889710,SAMN49889710,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889709,SAMN49889709,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889708,SAMN49889708,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889707,SAMN49889707,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889705,SAMN49889705,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889704,SAMN49889704,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889703,SAMN49889703,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889702,SAMN49889702,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889701,SAMN49889701,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889700,SAMN49889700,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889699,SAMN49889699,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889698,SAMN49889698,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889697,SAMN49889697,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889696,SAMN49889696,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889695,SAMN49889695,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889694,SAMN49889694,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889692,SAMN49889692,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889691,SAMN49889691,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889690,SAMN49889690,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889689,SAMN49889689,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889688,SAMN49889688,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889687,SAMN49889687,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889686,SAMN49889686,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889685,SAMN49889685,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889684,SAMN49889684,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889683,SAMN49889683,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889682,SAMN49889682,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889681,SAMN49889681,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889680,SAMN49889680,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889679,SAMN49889679,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889678,SAMN49889678,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889677,SAMN49889677,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889676,SAMN49889676,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889675,SAMN49889675,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889674,SAMN49889674,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889673,SAMN49889673,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889672,SAMN49889672,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889670,SAMN49889670,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889669,SAMN49889669,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889668,SAMN49889668,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889667,SAMN49889667,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889666,SAMN49889666,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889665,SAMN49889665,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889664,SAMN49889664,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889663,SAMN49889663,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889662,SAMN49889662,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889661,SAMN49889661,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889660,SAMN49889660,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889659,SAMN49889659,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889657,SAMN49889657,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889656,SAMN49889656,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889655,SAMN49889655,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889654,SAMN49889654,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889653,SAMN49889653,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889652,SAMN49889652,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889651,SAMN49889651,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889650,SAMN49889650,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889649,SAMN49889649,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889648,SAMN49889648,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889647,SAMN49889647,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889646,SAMN49889646,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889645,SAMN49889645,Escherichia coli,United Kingdom: Birmingham,urine,missing,Homo sapiens,,,Valid,Valid,Valid
+Escherichia coli,United Kingdom,49889644,SAMN49889644,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889643,SAMN49889643,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889642,SAMN49889642,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889641,SAMN49889641,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889640,SAMN49889640,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889639,SAMN49889639,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889638,SAMN49889638,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889637,SAMN49889637,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889636,SAMN49889636,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889635,SAMN49889635,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889634,SAMN49889634,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889633,SAMN49889633,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889631,SAMN49889631,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889630,SAMN49889630,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889629,SAMN49889629,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889628,SAMN49889628,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889627,SAMN49889627,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889626,SAMN49889626,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889625,SAMN49889625,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889624,SAMN49889624,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889623,SAMN49889623,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889622,SAMN49889622,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889621,SAMN49889621,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889620,SAMN49889620,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889618,SAMN49889618,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889617,SAMN49889617,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889616,SAMN49889616,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889615,SAMN49889615,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889614,SAMN49889614,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889613,SAMN49889613,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889612,SAMN49889612,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889611,SAMN49889611,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889610,SAMN49889610,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889609,SAMN49889609,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889608,SAMN49889608,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889607,SAMN49889607,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889605,SAMN49889605,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889604,SAMN49889604,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889603,SAMN49889603,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889602,SAMN49889602,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889601,SAMN49889601,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889600,SAMN49889600,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889599,SAMN49889599,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889598,SAMN49889598,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889597,SAMN49889597,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889596,SAMN49889596,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889595,SAMN49889595,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889594,SAMN49889594,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889592,SAMN49889592,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889591,SAMN49889591,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889590,SAMN49889590,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889589,SAMN49889589,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889588,SAMN49889588,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889587,SAMN49889587,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889586,SAMN49889586,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889585,SAMN49889585,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889584,SAMN49889584,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889583,SAMN49889583,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889582,SAMN49889582,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889581,SAMN49889581,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889580,SAMN49889580,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889579,SAMN49889579,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889578,SAMN49889578,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889577,SAMN49889577,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889576,SAMN49889576,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889575,SAMN49889575,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889574,SAMN49889574,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889573,SAMN49889573,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889572,SAMN49889572,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889571,SAMN49889571,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889570,SAMN49889570,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889569,SAMN49889569,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889567,SAMN49889567,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889566,SAMN49889566,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889565,SAMN49889565,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889564,SAMN49889564,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889563,SAMN49889563,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889562,SAMN49889562,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889561,SAMN49889561,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889560,SAMN49889560,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889559,SAMN49889559,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889558,SAMN49889558,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889557,SAMN49889557,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889556,SAMN49889556,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889555,SAMN49889555,Escherichia coli,United Kingdom: Birmingham,feces,missing,Homo sapiens,,,Valid,Valid,Valid
+Escherichia coli,United Kingdom,49889554,SAMN49889554,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889553,SAMN49889553,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889552,SAMN49889552,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889551,SAMN49889551,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889550,SAMN49889550,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889549,SAMN49889549,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889548,SAMN49889548,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889547,SAMN49889547,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889546,SAMN49889546,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889545,SAMN49889545,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889544,SAMN49889544,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,49889543,SAMN49889543,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,44473290,SAMN44473290,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,44473289,SAMN44473289,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,44473288,SAMN44473288,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,44473287,SAMN44473287,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,44473286,SAMN44473286,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,44473285,SAMN44473285,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,44473284,SAMN44473284,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,44473283,SAMN44473283,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,44473282,SAMN44473282,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,44473281,SAMN44473281,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,44473280,SAMN44473280,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,44473279,SAMN44473279,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,44473278,SAMN44473278,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,44473277,SAMN44473277,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,44473276,SAMN44473276,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,44473275,SAMN44473275,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,44473274,SAMN44473274,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,44473273,SAMN44473273,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,44473272,SAMN44473272,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,44473271,SAMN44473271,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,44473270,SAMN44473270,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,44473269,SAMN44473269,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,44473268,SAMN44473268,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,44473267,SAMN44473267,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,44473266,SAMN44473266,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,44473265,SAMN44473265,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,44473264,SAMN44473264,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,44473263,SAMN44473263,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,44473262,SAMN44473262,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,44473261,SAMN44473261,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,44473260,SAMN44473260,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,44473259,SAMN44473259,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,44473258,SAMN44473258,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,44473257,SAMN44473257,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,44473256,SAMN44473256,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,44473255,SAMN44473255,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,44473254,SAMN44473254,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,44473253,SAMN44473253,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,44473252,SAMN44473252,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,44473251,SAMN44473251,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,44473250,SAMN44473250,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,44473249,SAMN44473249,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,44473248,SAMN44473248,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,44473247,SAMN44473247,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,44473246,SAMN44473246,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,44473245,SAMN44473245,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,44473244,SAMN44473244,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,44473243,SAMN44473243,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,44473242,SAMN44473242,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,44473241,SAMN44473241,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,44473240,SAMN44473240,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,44473239,SAMN44473239,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,44473238,SAMN44473238,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,44473237,SAMN44473237,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,44473236,SAMN44473236,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,44473235,SAMN44473235,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,44473234,SAMN44473234,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,44473233,SAMN44473233,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,44473232,SAMN44473232,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Escherichia coli,United Kingdom,44473231,SAMN44473231,Escherichia coli,United Kingdom: University of Birmingham,Laboratory strain,not applicable,,,,Valid,Valid,Missing
+Klebsiella pneumoniae,Pakistan,8723003,SAMEA104168730,Klebsiella pneumoniae,Pakistan,missing,,Homo sapiens,,,Valid,Malformed,Valid
+Klebsiella pneumoniae,Pakistan,8723002,SAMEA104168729,Klebsiella pneumoniae,Pakistan,missing,,Homo sapiens,,,Valid,Malformed,Valid
+Klebsiella pneumoniae,Pakistan,8723001,SAMEA104168728,Klebsiella pneumoniae,Pakistan,missing,,Homo sapiens,,,Valid,Malformed,Valid
+Klebsiella pneumoniae,Pakistan,8723000,SAMEA104168727,Klebsiella pneumoniae,Pakistan,missing,,Homo sapiens,,,Valid,Malformed,Valid
+Klebsiella pneumoniae,Pakistan,49796603,SAMEA117969216,Klebsiella pneumoniae,Pakistan,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Pakistan,49796591,SAMEA117969293,Klebsiella pneumoniae,Pakistan,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Pakistan,49796559,SAMEA117969280,Klebsiella pneumoniae,Pakistan,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Pakistan,49796539,SAMEA117969295,Klebsiella pneumoniae,Pakistan,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Pakistan,49796522,SAMEA117969186,Klebsiella pneumoniae,Pakistan,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Pakistan,49796489,SAMEA117969209,Klebsiella pneumoniae,Pakistan,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Pakistan,49796488,SAMEA117969199,Klebsiella pneumoniae,Pakistan,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Pakistan,49796475,SAMEA117969202,Klebsiella pneumoniae,Pakistan,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Pakistan,49796436,SAMEA117969258,Klebsiella pneumoniae,Pakistan,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Pakistan,49796428,SAMEA117969255,Klebsiella pneumoniae,Pakistan,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Pakistan,49796419,SAMEA117969281,Klebsiella pneumoniae,Pakistan,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Pakistan,49796332,SAMEA117969203,Klebsiella pneumoniae,Pakistan,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Pakistan,49796331,SAMEA117969187,Klebsiella pneumoniae,Pakistan,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Pakistan,49796323,SAMEA117969212,Klebsiella pneumoniae,Pakistan,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Pakistan,49796263,SAMEA117969277,Klebsiella pneumoniae,Pakistan,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Pakistan,49796185,SAMEA117969262,Klebsiella pneumoniae,Pakistan,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Pakistan,49796150,SAMEA117969210,Klebsiella pneumoniae,Pakistan,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Pakistan,49796142,SAMEA117969217,Klebsiella pneumoniae,Pakistan,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Pakistan,49796103,SAMEA117969215,Klebsiella pneumoniae,Pakistan,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Pakistan,49796070,SAMEA117969237,Klebsiella pneumoniae,Pakistan,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Pakistan,49796066,SAMEA117969249,Klebsiella pneumoniae,Pakistan,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Pakistan,49796021,SAMEA117969229,Klebsiella pneumoniae,Pakistan,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Pakistan,49795985,SAMEA117969269,Klebsiella pneumoniae,Pakistan,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Pakistan,49795928,SAMEA117969271,Klebsiella pneumoniae,Pakistan,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Pakistan,49795886,SAMEA117969259,Klebsiella pneumoniae,Pakistan,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Pakistan,49795884,SAMEA117969205,Klebsiella pneumoniae,Pakistan,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Pakistan,49795880,SAMEA117969256,Klebsiella pneumoniae,Pakistan,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Pakistan,49795866,SAMEA117969231,Klebsiella pneumoniae,Pakistan,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Pakistan,49795855,SAMEA117969268,Klebsiella pneumoniae,Pakistan,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Pakistan,49795837,SAMEA117969279,Klebsiella pneumoniae,Pakistan,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Pakistan,49795829,SAMEA117969276,Klebsiella pneumoniae,Pakistan,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Pakistan,49795785,SAMEA117969206,Klebsiella pneumoniae,Pakistan,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Pakistan,49795774,SAMEA117969228,Klebsiella pneumoniae,Pakistan,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Pakistan,49795745,SAMEA117969252,Klebsiella pneumoniae,Pakistan,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Pakistan,49795729,SAMEA117969183,Klebsiella pneumoniae,Pakistan,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Pakistan,49795718,SAMEA117969270,Klebsiella pneumoniae,Pakistan,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Pakistan,49795670,SAMEA117969224,Klebsiella pneumoniae,Pakistan,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Pakistan,49795634,SAMEA117969266,Klebsiella pneumoniae,Pakistan,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Pakistan,49795632,SAMEA117969241,Klebsiella pneumoniae,Pakistan,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Pakistan,49795618,SAMEA117969235,Klebsiella pneumoniae,Pakistan,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Pakistan,49795586,SAMEA117969254,Klebsiella pneumoniae,Pakistan,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Pakistan,49795582,SAMEA117969261,Klebsiella pneumoniae,Pakistan,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Pakistan,49795560,SAMEA117969282,Klebsiella pneumoniae,Pakistan,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Pakistan,49795557,SAMEA117969220,Klebsiella pneumoniae,Pakistan,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Pakistan,49795544,SAMEA117969278,Klebsiella pneumoniae,Pakistan,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Pakistan,49795541,SAMEA117969234,Klebsiella pneumoniae,Pakistan,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Pakistan,49795488,SAMEA117969239,Klebsiella pneumoniae,Pakistan,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Pakistan,49795485,SAMEA117969240,Klebsiella pneumoniae,Pakistan,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Pakistan,49795462,SAMEA117969263,Klebsiella pneumoniae,Pakistan,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Pakistan,49795459,SAMEA117969194,Klebsiella pneumoniae,Pakistan,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Pakistan,49795458,SAMEA117969211,Klebsiella pneumoniae,Pakistan,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Pakistan,49795451,SAMEA117969213,Klebsiella pneumoniae,Pakistan,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Pakistan,49795421,SAMEA117969247,Klebsiella pneumoniae,Pakistan,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Pakistan,49795389,SAMEA117969289,Klebsiella pneumoniae,Pakistan,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Pakistan,49795340,SAMEA117969286,Klebsiella pneumoniae,Pakistan,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,India,32524247,SAMEA112282178,Klebsiella pneumoniae,India,missing,,,,,Valid,Malformed,Missing
+Klebsiella pneumoniae,India,32524206,SAMEA112282137,Klebsiella pneumoniae,India,missing,,,,,Valid,Malformed,Missing
+Klebsiella pneumoniae,India,32524188,SAMEA112282119,Klebsiella pneumoniae,India,missing,,,,,Valid,Malformed,Missing
+Klebsiella pneumoniae,India,46783790,SAMN46783790,Klebsiella pneumoniae,India,sputum,not applicable,Homo sapiens,Pneumonia,,Valid,Valid,Valid
+Klebsiella pneumoniae,India,46783789,SAMN46783789,Klebsiella pneumoniae,India,sputum,not applicable,Homo sapiens,Pneumonia,,Valid,Valid,Valid
+Klebsiella pneumoniae,India,46783738,SAMN46783738,Klebsiella pneumoniae,India,Pus and Exudates,not applicable,Homo sapiens,Wound Infection,,Valid,Valid,Valid
+Klebsiella pneumoniae,India,46783737,SAMN46783737,Klebsiella pneumoniae,India,Pus and Exudates,not applicable,Homo sapiens,Wound Infection,,Valid,Valid,Valid
+Klebsiella pneumoniae,India,39191608,SAMN39191608,Klebsiella pneumoniae,India,SRM Hospital Kattankulathur,not applicable,Homo sapiens,Urinary tract infection,,Valid,Valid,Valid
+Klebsiella pneumoniae,India,32778064,SAMN32778064,Klebsiella pneumoniae,"India: Telangana, Gandhi Medical College",missing,missing,Homo sapiens,missing,,Valid,Malformed,Valid
+Klebsiella pneumoniae,India,32778063,SAMN32778063,Klebsiella pneumoniae,"India: Telangana, Gandhi Medical College",missing,missing,Homo sapiens,missing,,Valid,Malformed,Valid
+Klebsiella pneumoniae,India,32778060,SAMN32778060,Klebsiella pneumoniae,"India: Telangana, Gandhi Medical College",missing,missing,Homo sapiens,missing,,Valid,Malformed,Valid
+Klebsiella pneumoniae,India,32778059,SAMN32778059,Klebsiella pneumoniae,"India: Telangana, Gandhi Medical College",missing,missing,Homo sapiens,missing,,Valid,Malformed,Valid
+Klebsiella pneumoniae,India,32778057,SAMN32778057,Klebsiella pneumoniae,"India: Telangana, Gandhi Medical College",missing,missing,Homo sapiens,missing,,Valid,Malformed,Valid
+Klebsiella pneumoniae,India,32745718,SAMN32745718,Klebsiella pneumoniae,"India: Telangana, Gandhi Medical College",missing,missing,Homo sapiens,missing,,Valid,Malformed,Valid
+Klebsiella pneumoniae,India,32745717,SAMN32745717,Klebsiella pneumoniae,"India: Telangana, Gandhi Medical College",missing,missing,Homo sapiens,missing,,Valid,Malformed,Valid
+Klebsiella pneumoniae,India,32745714,SAMN32745714,Klebsiella pneumoniae,"India: Telangana, Gandhi Medical College",missing,missing,Homo sapiens,missing,,Valid,Malformed,Valid
+Klebsiella pneumoniae,India,32745713,SAMN32745713,Klebsiella pneumoniae,"India: Telangana, Gandhi Medical College",missing,missing,Homo sapiens,missing,,Valid,Malformed,Valid
+Klebsiella pneumoniae,India,32745711,SAMN32745711,Klebsiella pneumoniae,"India: Telangana, Gandhi Medical College",missing,missing,Homo sapiens,missing,,Valid,Malformed,Valid
+Klebsiella pneumoniae,Bangladesh,49796592,SAMEA117969207,Klebsiella pneumoniae,Bangladesh,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49796546,SAMEA117969245,Klebsiella pneumoniae,Bangladesh,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49796533,SAMEA117969219,Klebsiella pneumoniae,Bangladesh,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49796513,SAMEA117969223,Klebsiella pneumoniae,Bangladesh,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49796501,SAMEA117969192,Klebsiella pneumoniae,Bangladesh,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49796431,SAMEA117969287,Klebsiella pneumoniae,Bangladesh,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49796401,SAMEA117969248,Klebsiella pneumoniae,Bangladesh,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49796370,SAMEA117969236,Klebsiella pneumoniae,Bangladesh,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49796333,SAMEA117969195,Klebsiella pneumoniae,Bangladesh,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49796307,SAMEA117969198,Klebsiella pneumoniae,Bangladesh,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49796234,SAMEA117969222,Klebsiella pneumoniae,Bangladesh,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49796205,SAMEA117969244,Klebsiella pneumoniae,Bangladesh,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49796165,SAMEA117969274,Klebsiella pneumoniae,Bangladesh,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49796133,SAMEA117969253,Klebsiella pneumoniae,Bangladesh,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49796129,SAMEA117969200,Klebsiella pneumoniae,Bangladesh,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49796119,SAMEA117969188,Klebsiella pneumoniae,Bangladesh,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49796094,SAMEA117969208,Klebsiella pneumoniae,Bangladesh,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49796068,SAMEA117969273,Klebsiella pneumoniae,Bangladesh,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49796063,SAMEA117969232,Klebsiella pneumoniae,Bangladesh,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49796059,SAMEA117969243,Klebsiella pneumoniae,Bangladesh,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49796039,SAMEA117969238,Klebsiella pneumoniae,Bangladesh,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49796014,SAMEA117969197,Klebsiella pneumoniae,Bangladesh,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49795984,SAMEA117969285,Klebsiella pneumoniae,Bangladesh,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49795976,SAMEA117969201,Klebsiella pneumoniae,Bangladesh,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49795945,SAMEA117969190,Klebsiella pneumoniae,Bangladesh,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49795869,SAMEA117969246,Klebsiella pneumoniae,Bangladesh,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49795849,SAMEA117969233,Klebsiella pneumoniae,Bangladesh,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49795847,SAMEA117969288,Klebsiella pneumoniae,Bangladesh,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49795830,SAMEA117969283,Klebsiella pneumoniae,Bangladesh,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49795784,SAMEA117969257,Klebsiella pneumoniae,Bangladesh,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49795778,SAMEA117969230,Klebsiella pneumoniae,Bangladesh,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49795759,SAMEA117969290,Klebsiella pneumoniae,Bangladesh,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49795689,SAMEA117969185,Klebsiella pneumoniae,Bangladesh,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49795676,SAMEA117969272,Klebsiella pneumoniae,Bangladesh,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49795665,SAMEA117969214,Klebsiella pneumoniae,Bangladesh,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49795658,SAMEA117969267,Klebsiella pneumoniae,Bangladesh,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49795619,SAMEA117969242,Klebsiella pneumoniae,Bangladesh,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49795604,SAMEA117969226,Klebsiella pneumoniae,Bangladesh,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49795580,SAMEA117969251,Klebsiella pneumoniae,Bangladesh,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49795516,SAMEA117969292,Klebsiella pneumoniae,Bangladesh,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49795453,SAMEA117969225,Klebsiella pneumoniae,Bangladesh,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49795439,SAMEA117969260,Klebsiella pneumoniae,Bangladesh,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49795429,SAMEA117969191,Klebsiella pneumoniae,Bangladesh,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49795393,SAMEA117969184,Klebsiella pneumoniae,Bangladesh,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49795388,SAMEA117969296,Klebsiella pneumoniae,Bangladesh,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49795371,SAMEA117969284,Klebsiella pneumoniae,Bangladesh,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49795361,SAMEA117969204,Klebsiella pneumoniae,Bangladesh,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49795359,SAMEA117969275,Klebsiella pneumoniae,Bangladesh,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49795356,SAMEA117969221,Klebsiella pneumoniae,Bangladesh,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49795348,SAMEA117969189,Klebsiella pneumoniae,Bangladesh,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49795328,SAMEA117969294,Klebsiella pneumoniae,Bangladesh,,not collected,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49795289,SAMEA117969227,Klebsiella pneumoniae,Bangladesh,,not collected,,,,Valid,Missing,Missing
+Salmonella,India,12822619,SAMN12822619,"Salmonella enterica subsp. indica serovar 45:a:e,n,x",USA,not provided,missing,,,,Valid,Malformed,Missing
+Salmonella,India,6333696,SAMN06333696,Salmonella enterica subsp. enterica serovar Typhi,India,blood,missing,Homo sapiens,missing,,Valid,Valid,Valid
+Salmonella,Bangladesh,31235987,SAMEA111442386,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31235986,SAMEA111442383,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31235985,SAMEA111442311,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223114,SAMEA111442474,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223113,SAMEA111442473,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223112,SAMEA111442472,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223111,SAMEA111442471,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223110,SAMEA111442470,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223109,SAMEA111442469,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223108,SAMEA111442468,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223107,SAMEA111442467,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223106,SAMEA111442466,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223105,SAMEA111442465,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223104,SAMEA111442464,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223103,SAMEA111442463,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223102,SAMEA111442462,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223101,SAMEA111442461,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223100,SAMEA111442460,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223099,SAMEA111442459,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223098,SAMEA111442458,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223097,SAMEA111442457,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223096,SAMEA111442456,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223095,SAMEA111442455,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223094,SAMEA111442454,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223093,SAMEA111442453,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223092,SAMEA111442452,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223091,SAMEA111442451,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223090,SAMEA111442450,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223089,SAMEA111442449,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223088,SAMEA111442448,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223087,SAMEA111442447,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223086,SAMEA111442446,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223085,SAMEA111442445,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223084,SAMEA111442444,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223083,SAMEA111442443,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223082,SAMEA111442442,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223081,SAMEA111442441,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223080,SAMEA111442440,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223079,SAMEA111442439,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223078,SAMEA111442438,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223077,SAMEA111442437,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223076,SAMEA111442436,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223075,SAMEA111442435,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223074,SAMEA111442434,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223073,SAMEA111442433,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223072,SAMEA111442432,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223071,SAMEA111442431,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223070,SAMEA111442430,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223069,SAMEA111442429,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223068,SAMEA111442428,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223067,SAMEA111442427,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223066,SAMEA111442426,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223065,SAMEA111442425,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223064,SAMEA111442424,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223063,SAMEA111442423,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223062,SAMEA111442422,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223061,SAMEA111442421,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223060,SAMEA111442420,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223059,SAMEA111442419,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223058,SAMEA111442418,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223057,SAMEA111442417,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223056,SAMEA111442416,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223055,SAMEA111442415,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223054,SAMEA111442414,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223053,SAMEA111442413,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223052,SAMEA111442412,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223051,SAMEA111442411,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223050,SAMEA111442410,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223049,SAMEA111442409,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223048,SAMEA111442408,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223047,SAMEA111442407,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223046,SAMEA111442406,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223045,SAMEA111442405,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223044,SAMEA111442404,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223043,SAMEA111442403,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223042,SAMEA111442402,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223041,SAMEA111442401,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223040,SAMEA111442400,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223039,SAMEA111442399,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223038,SAMEA111442398,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223037,SAMEA111442397,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223036,SAMEA111442396,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223035,SAMEA111442395,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223034,SAMEA111442394,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223033,SAMEA111442393,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223032,SAMEA111442392,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223031,SAMEA111442391,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223030,SAMEA111442390,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223029,SAMEA111442389,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223028,SAMEA111442388,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223027,SAMEA111442387,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223026,SAMEA111442385,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223025,SAMEA111442384,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223024,SAMEA111442382,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223023,SAMEA111442381,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223022,SAMEA111442380,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223021,SAMEA111442379,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223020,SAMEA111442378,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223019,SAMEA111442377,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223018,SAMEA111442376,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223017,SAMEA111442375,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223016,SAMEA111442374,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31223015,SAMEA111442373,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31222999,SAMEA111442372,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31222998,SAMEA111442371,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31222997,SAMEA111442370,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31222996,SAMEA111442369,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31222995,SAMEA111442368,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31222994,SAMEA111442367,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31222993,SAMEA111442366,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31222992,SAMEA111442365,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31222991,SAMEA111442364,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31222990,SAMEA111442363,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31222989,SAMEA111442362,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31222988,SAMEA111442361,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31222987,SAMEA111442360,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31222986,SAMEA111442359,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31222985,SAMEA111442358,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31222984,SAMEA111442357,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31222983,SAMEA111442356,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31222982,SAMEA111442355,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31222981,SAMEA111442354,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31222980,SAMEA111442353,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31222979,SAMEA111442352,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31222978,SAMEA111442351,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31222977,SAMEA111442350,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31222976,SAMEA111442349,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31222975,SAMEA111442348,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31222974,SAMEA111442347,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31222973,SAMEA111442346,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31222972,SAMEA111442345,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31222971,SAMEA111442344,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31222970,SAMEA111442343,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31222969,SAMEA111442342,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31222968,SAMEA111442341,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31222967,SAMEA111442340,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31222966,SAMEA111442339,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31222965,SAMEA111442338,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31222964,SAMEA111442337,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31222963,SAMEA111442336,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31222962,SAMEA111442335,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31222961,SAMEA111442334,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31222960,SAMEA111442333,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31222959,SAMEA111442332,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31222958,SAMEA111442331,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31222957,SAMEA111442330,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31222956,SAMEA111442329,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31222955,SAMEA111442328,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31222954,SAMEA111442327,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31222953,SAMEA111442326,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31222952,SAMEA111442325,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31222951,SAMEA111442324,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31222950,SAMEA111442323,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31222949,SAMEA111442322,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31222948,SAMEA111442321,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31222947,SAMEA111442320,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31222946,SAMEA111442319,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31222945,SAMEA111442318,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31222944,SAMEA111442317,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31222943,SAMEA111442316,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31222942,SAMEA111442315,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31222941,SAMEA111442314,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31222940,SAMEA111442313,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31222939,SAMEA111442312,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31222938,SAMEA111442310,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31222937,SAMEA111442309,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,Bangladesh,31222936,SAMEA111442308,Salmonella enterica subsp. enterica serovar Paratyphi A,,,,,,,Missing,Missing,Missing
+Salmonella,United Kingdom,30870367,SAMN30870367,Salmonella enterica subsp. enterica serovar Kedougou,United Kingdom: England,Raw Food,missing,,,,Valid,Valid,Missing
+Salmonella,United Kingdom,30870366,SAMN30870366,Salmonella enterica subsp. enterica serovar Typhimurium,United Kingdom,Raw Food,missing,,,,Valid,Valid,Missing

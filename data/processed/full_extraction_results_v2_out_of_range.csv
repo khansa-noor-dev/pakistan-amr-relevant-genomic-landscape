@@ -1,0 +1,663 @@
+search_pathogen,search_country,biosample_id,accession,organism,geo_loc_name,isolation_source,collection_date,host,host_disease,genotype,geo_loc_name_quality,isolation_source_quality,host_quality
+Escherichia coli,Pakistan,23706751,SAMN23706751,Escherichia coli,Pakistan,,2014-01-01,Homo sapiens,,,Valid,Missing,Valid
+Escherichia coli,Pakistan,51250228,SAMN51250228,Escherichia coli,Pakistan,stool,2008,Homo sapiens,missing,,Valid,Valid,Valid
+Escherichia coli,Pakistan,51205882,SAMN51205882,Escherichia coli,Pakistan,stool,2008,Homo sapiens,missing,,Valid,Valid,Valid
+Escherichia coli,Pakistan,29335992,SAMN29335992,Escherichia coli,Pakistan,stool from child,2007-01-01,Homo sapiens,missing,ST6438,Valid,Valid,Valid
+Escherichia coli,Pakistan,29335991,SAMN29335991,Escherichia coli,Pakistan,stool from child,2007-01-01,Homo sapiens,missing,ST131,Valid,Valid,Valid
+Escherichia coli,Pakistan,29335990,SAMN29335990,Escherichia coli,Pakistan,stool from child,2007-01-01,Homo sapiens,missing,ST10-4,Valid,Valid,Valid
+Escherichia coli,Pakistan,29335989,SAMN29335989,Escherichia coli,Pakistan,stool from child,2007-01-01,Homo sapiens,missing,ST10-3,Valid,Valid,Valid
+Escherichia coli,Pakistan,29335988,SAMN29335988,Escherichia coli,Pakistan,stool from child,2007-01-01,Homo sapiens,missing,ST8136,Valid,Valid,Valid
+Escherichia coli,Pakistan,29335987,SAMN29335987,Escherichia coli,Pakistan,stool from child,2007-01-01,Homo sapiens,missing,ST38,Valid,Valid,Valid
+Escherichia coli,Pakistan,29335986,SAMN29335986,Escherichia coli,Pakistan,stool from child,2007-01-01,Homo sapiens,missing,ST10-2,Valid,Valid,Valid
+Escherichia coli,Pakistan,29335985,SAMN29335985,Escherichia coli,Pakistan,stool from child,2007-01-01,Homo sapiens,missing,ST167,Valid,Valid,Valid
+Escherichia coli,Pakistan,29335984,SAMN29335984,Escherichia coli,Pakistan,stool from child,2007-01-01,Homo sapiens,missing,ST648,Valid,Valid,Valid
+Escherichia coli,Pakistan,29335983,SAMN29335983,Escherichia coli,Pakistan,stool from child,2007-01-01,Homo sapiens,missing,ST641,Valid,Valid,Valid
+Escherichia coli,Pakistan,29335982,SAMN29335982,Escherichia coli,Pakistan,stool from child,2007-01-01,Homo sapiens,missing,ST10-1,Valid,Valid,Valid
+Escherichia coli,Pakistan,29335981,SAMN29335981,Escherichia coli,Pakistan,stool from child,2007-01-01,Homo sapiens,missing,ST410,Valid,Valid,Valid
+Escherichia coli,Pakistan,29335980,SAMN29335980,Escherichia coli,Pakistan,stool from child,2007-01-01,Homo sapiens,missing,ST28,Valid,Valid,Valid
+Escherichia coli,Pakistan,29335979,SAMN29335979,Escherichia coli,Pakistan,stool from child,2007-01-01,Homo sapiens,missing,ST1201,Valid,Valid,Valid
+Escherichia coli,Pakistan,29335978,SAMN29335978,Escherichia coli,Pakistan,stool from child,2007-01-01,Homo sapiens,missing,ST616,Valid,Valid,Valid
+Escherichia coli,Pakistan,29335977,SAMN29335977,Escherichia coli,Pakistan,stool from child,2007-01-01,Homo sapiens,missing,ST8130,Valid,Valid,Valid
+Escherichia coli,Pakistan,29335976,SAMN29335976,Escherichia coli,Pakistan,stool from child,2007-01-01,Homo sapiens,missing,ST517,Valid,Valid,Valid
+Escherichia coli,Pakistan,29335975,SAMN29335975,Escherichia coli,Pakistan,stool from child,2007-01-01,Homo sapiens,missing,ST8131,Valid,Valid,Valid
+Escherichia coli,India,31265964,SAMN31265964,Escherichia coli,India: Delhi,,2012-02,,,,Valid,Missing,Missing
+Escherichia coli,India,31265963,SAMN31265963,Escherichia coli,India: Delhi,,2012-02,,,,Valid,Missing,Missing
+Escherichia coli,India,31265962,SAMN31265962,Escherichia coli,India: Delhi,,2012-02,,,,Valid,Missing,Missing
+Escherichia coli,India,9982392,SAMN09982392,Escherichia coli,India,wastewater,2011-03-20,not applicable,,,Valid,Valid,Malformed
+Escherichia coli,India,9930827,SAMN09930827,Escherichia coli,India,wastewater with 2% salt,2011-03-20,not applicable,,not applicable,Valid,Valid,Malformed
+Escherichia coli,India,42087478,SAMN42087478,Escherichia coli,India,"Sheep, (Ovine)",1990,,,,Valid,Valid,Missing
+Escherichia coli,India,14503407,SAMN14503407,Escherichia coli,India,not provided,1990,Equus caballus,missing,,Valid,Malformed,Valid
+Escherichia coli,India,14503406,SAMN14503406,Escherichia coli,India,not provided,1990,Columba livia,missing,,Valid,Malformed,Valid
+Escherichia coli,India,12438475,SAMN12438475,Escherichia coli,India,not provided,1990,Bos taurus,missing,,Valid,Malformed,Valid
+Escherichia coli,India,10315802,SAMN10315802,Escherichia coli,India,chicken,1990,,,,Valid,Valid,Missing
+Escherichia coli,India,10315740,SAMN10315740,Escherichia coli,India,chicken,1989,,,,Valid,Valid,Missing
+Escherichia coli,India,10315722,SAMN10315722,Escherichia coli,India,chicken,1989,,,,Valid,Valid,Missing
+Escherichia coli,India,10315718,SAMN10315718,Escherichia coli,India,chicken,1989,,,,Valid,Valid,Missing
+Escherichia coli,India,4993179,SAMN04993179,Escherichia coli,USA,heart,1990-07-18,not provided,missing,,Valid,Valid,Malformed
+Escherichia coli,India,51205879,SAMN51205879,Escherichia coli,India,stool,2007,Homo sapiens,missing,,Valid,Valid,Valid
+Escherichia coli,India,14083871,SAMN14083871,Escherichia coli,India: Kolkata,blood,2013-04-01,Homo sapiens,Septicaemia,,Valid,Valid,Valid
+Escherichia coli,India,12898238,SAMN12898238,Escherichia coli,"India: Nazareth Hospital, Laitumkhrah, Shillong, Meghalaya",misisng,2014-03,Homo sapiens,missing,,Valid,Valid,Valid
+Escherichia coli,India,5853518,SAMN05853518,Escherichia coli,India: Delhi,stool,2013,Homo sapiens,not applicable,,Valid,Valid,Valid
+Escherichia coli,Bangladesh,51205880,SAMN51205880,Escherichia coli,Bangladesh,stool,2007,Homo sapiens,missing,,Valid,Valid,Valid
+Escherichia coli,Bangladesh,4917416,SAMN04917416,Escherichia coli,Bangladesh,missing,1985-06-10,Homo sapiens,diarrhea,LT-IIc1 EplBA,Valid,Malformed,Valid
+Escherichia coli,Bangladesh,7503734,SAMN07503734,Escherichia coli,Bangladesh: Dhaka,Diarrheal stool,2006-03-22,Homo sapiens,Secretory diarrhea,,Valid,Valid,Valid
+Escherichia coli,Bangladesh,7503733,SAMN07503733,Escherichia coli,Bangladesh: Dhaka,Diarrheal stool,2006-03-21,Homo sapiens,Secretory diarrhea,,Valid,Valid,Valid
+Escherichia coli,Bangladesh,51250227,SAMN51250227,Escherichia coli,Bangladesh,stool,2007,Homo sapiens,Diarrhea,,Valid,Valid,Valid
+Escherichia coli,Bangladesh,51205881,SAMN51205881,Escherichia coli,Bangladesh,stool,2007,Homo sapiens,Diarrhea,,Valid,Valid,Valid
+Escherichia coli,Bangladesh,48111087,SAMN48111087,Escherichia coli,Bangladesh,stool,2008,Homo sapiens,diarrhea,,Valid,Valid,Valid
+Escherichia coli,Bangladesh,48111086,SAMN48111086,Escherichia coli,Bangladesh,stool,2009,Homo sapiens,diarrhea,,Valid,Valid,Valid
+Escherichia coli,Bangladesh,48035612,SAMN48035612,Escherichia coli,Bangladesh,stool,2009,Homo sapiens,Diarrhea,,Valid,Valid,Valid
+Escherichia coli,Bangladesh,48035611,SAMN48035611,Escherichia coli,Bangladesh,stool,2008,Homo sapiens,Diarrhea,,Valid,Valid,Valid
+Escherichia coli,Bangladesh,48035610,SAMN48035610,Escherichia coli,Bangladesh,stool,2008,Homo sapiens,Diarrhea,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,33386001,SAMN33386001,Klebsiella pneumoniae,Pakistan,clinical,2013,Homo sapiens,,not applicable,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,33386000,SAMN33386000,Klebsiella pneumoniae,Pakistan,clinical,2013,Homo sapiens,,not applicable,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,33385999,SAMN33385999,Klebsiella pneumoniae,Pakistan,clinical,2013,Homo sapiens,,not applicable,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,33385998,SAMN33385998,Klebsiella pneumoniae,Pakistan,clinical,2013,Homo sapiens,,not applicable,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,33385997,SAMN33385997,Klebsiella pneumoniae,Pakistan,clinical,2013,Homo sapiens,,not applicable,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,33385996,SAMN33385996,Klebsiella pneumoniae,Pakistan,clinical,2013,Homo sapiens,,not applicable,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,33385995,SAMN33385995,Klebsiella pneumoniae,Pakistan,clinical,2013,Homo sapiens,,not applicable,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,33385994,SAMN33385994,Klebsiella pneumoniae,Pakistan,clinical,2013,Homo sapiens,,not applicable,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,33385993,SAMN33385993,Klebsiella pneumoniae,Pakistan,clinical,2013,Homo sapiens,,not applicable,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,33385992,SAMN33385992,Klebsiella pneumoniae,Pakistan,clinical,2013,Homo sapiens,,not applicable,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3466781,SAMEA2609390,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,Peritoneal dialysis catheter,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384715,SAMEA2609571,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,urine,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384714,SAMEA2609570,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,blood,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384710,SAMEA2609566,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,urine,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384703,SAMEA2609559,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,Plueral fluid,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384700,SAMEA2609556,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,urine,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384699,SAMEA2609555,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,urine,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384697,SAMEA2609553,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,blood,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384693,SAMEA2609549,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,urine,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384692,SAMEA2609548,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,urine,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384690,SAMEA2609546,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,cerebrospinal fluid,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384688,SAMEA2609544,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,blood,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384686,SAMEA2609542,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,cerebrospinal fluid,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384679,SAMEA2609535,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,urine,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384663,SAMEA2609519,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,blood,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384661,SAMEA2609517,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,blood,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384658,SAMEA2609514,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,blood,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384656,SAMEA2609512,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,Peritoneal dialysis catheter,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384655,SAMEA2609511,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,blood,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384654,SAMEA2609510,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,Peritoneal dialysis catheter,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384652,SAMEA2609508,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,urine,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384651,SAMEA2609507,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,cerebrospinal fluid,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384650,SAMEA2609506,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,blood,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384649,SAMEA2609505,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,Peritoneal dialysis catheter,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384648,SAMEA2609504,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,blood,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384647,SAMEA2609503,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,Peritoneal dialysis catheter,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384645,SAMEA2609501,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,Wound Swab,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384644,SAMEA2609500,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,Tracheal Secretions,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384643,SAMEA2609499,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,urine,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384642,SAMEA2609498,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,blood,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384640,SAMEA2609496,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,blood,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384639,SAMEA2609495,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,blood,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384637,SAMEA2609493,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,blood,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384636,SAMEA2609492,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,urine,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384635,SAMEA2609491,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,cerebrospinal fluid,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384634,SAMEA2609490,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,blood,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384633,SAMEA2609489,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,Peritoneal dialysis catheter,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384631,SAMEA2609487,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,urine,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384630,SAMEA2609486,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,blood,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384628,SAMEA2609484,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,urine,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384627,SAMEA2609483,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,Peritoneal dialysis catheter,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384625,SAMEA2609481,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,blood,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384624,SAMEA2609480,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,blood,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384623,SAMEA2609479,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,blood,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384622,SAMEA2609478,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,Central venous catheter tip,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384621,SAMEA2609477,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,blood,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384620,SAMEA2609476,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,blood,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384619,SAMEA2609475,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,blood,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384618,SAMEA2609474,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,blood,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384617,SAMEA2609473,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,blood,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384616,SAMEA2609472,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,urine,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384615,SAMEA2609471,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,blood,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384614,SAMEA2609470,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,cerebrospinal fluid,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384613,SAMEA2609469,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,blood,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384612,SAMEA2609468,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,Endotracheal tube,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384611,SAMEA2609467,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,urine,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384610,SAMEA2609466,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,Endotracheal tube,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384609,SAMEA2609465,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,Pus,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384607,SAMEA2609463,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,urine,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384606,SAMEA2609462,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,Peritoneal dialysis catheter,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384604,SAMEA2609460,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,blood,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384603,SAMEA2609459,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,Ear swab,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384602,SAMEA2609458,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,Pus,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384600,SAMEA2609456,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,Endotracheal tube,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384599,SAMEA2609455,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,blood,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384597,SAMEA2609453,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,Tracheal Secretions,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384595,SAMEA2609451,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,Endotracheal tube,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384593,SAMEA2609449,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,Pus,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384591,SAMEA2609447,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,urine,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384588,SAMEA2609444,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,blood,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384587,SAMEA2609443,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,blood,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384584,SAMEA2609440,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,Endotracheal tube,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384582,SAMEA2609438,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,urine,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384581,SAMEA2609437,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,blood,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384580,SAMEA2609436,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,blood,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384579,SAMEA2609435,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,blood,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384578,SAMEA2609434,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,blood,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384577,SAMEA2609433,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,Endotracheal tube,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384575,SAMEA2609431,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,blood,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384572,SAMEA2609428,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,Wound Swab,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384571,SAMEA2609427,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,blood,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384568,SAMEA2609424,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,blood,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384566,SAMEA2609422,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,cerebrospinal fluid,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384565,SAMEA2609421,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,blood,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384564,SAMEA2609420,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,blood,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384563,SAMEA2609419,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,cerebrospinal fluid,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384562,SAMEA2609418,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,urine,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384561,SAMEA2609417,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,blood,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384560,SAMEA2609416,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,Peritoneal dialysis catheter,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384559,SAMEA2609415,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,urine,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384557,SAMEA2609413,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,urine,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384556,SAMEA2609412,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,urine,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384553,SAMEA2609409,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,urine,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384550,SAMEA2609406,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,Endotracheal tube,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384549,SAMEA2609405,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,urine,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384548,SAMEA2609404,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,blood,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384547,SAMEA2609403,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,blood,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384546,SAMEA2609402,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,blood,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384544,SAMEA2609400,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,blood,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384543,SAMEA2609399,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,blood,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384541,SAMEA2609397,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,blood,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384540,SAMEA2609396,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,Endotracheal tube,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384539,SAMEA2609395,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,urine,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384536,SAMEA2609392,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,urine,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384535,SAMEA2609391,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,blood,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384534,SAMEA2609389,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,blood,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384533,SAMEA2609387,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,Peritoneal dialysis catheter,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384530,SAMEA2609384,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,blood,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384526,SAMEA2609380,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,urine,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384524,SAMEA2609378,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,blood,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384523,SAMEA2609377,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,urine,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384522,SAMEA2609376,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,blood,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384520,SAMEA2609374,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,Endotracheal tube,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384516,SAMEA2609370,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,urine,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384515,SAMEA2609369,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,blood,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384512,SAMEA2609366,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,urine,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384511,SAMEA2609365,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,blood,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384510,SAMEA2609364,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,blood,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384509,SAMEA2609363,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,urine,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384508,SAMEA2609362,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,Endotracheal tube,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384506,SAMEA2609360,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,blood,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,Pakistan,3384505,SAMEA2609359,Klebsiella pneumoniae subsp. pneumoniae,Pakistan,Endotracheal tube,2010/2012,Homo sapiens,,,Valid,Valid,Valid
+Klebsiella pneumoniae,India,24979480,SAMN24979480,Klebsiella pneumoniae,India:Chennai,missing,2009,Homo sapiens,missing,,Valid,Malformed,Valid
+Klebsiella pneumoniae,India,24979452,SAMN24979452,Klebsiella pneumoniae,India:Chennai,missing,2009,Homo sapiens,missing,,Valid,Malformed,Valid
+Klebsiella pneumoniae,India,24979451,SAMN24979451,Klebsiella pneumoniae,India:Chennai,missing,2009,Homo sapiens,missing,,Valid,Malformed,Valid
+Klebsiella pneumoniae,India,17051552,SAMN17051552,Klebsiella pneumoniae,India: Kolkata,blood,2014-04-14,Homo sapiens,Pneumonia,,Valid,Valid,Valid
+Klebsiella pneumoniae,India,16966885,SAMN16966885,Klebsiella pneumoniae,India: Chennai,missing,2012,Homo sapiens,missing,,Valid,Malformed,Valid
+Klebsiella pneumoniae,India,20130733,SAMN20130733,Klebsiella pneumoniae subsp. pneumoniae,India,urine,2014,Homo sapiens,Urinary tract infection,,Valid,Valid,Valid
+Klebsiella pneumoniae,India,20130620,SAMN20130620,Klebsiella pneumoniae subsp. pneumoniae,India,urine,2014,Homo sapiens,Urinary tract infection,,Valid,Valid,Valid
+Klebsiella pneumoniae,India,20130528,SAMN20130528,Klebsiella pneumoniae subsp. pneumoniae,India,urine,2014,Homo sapiens,Urinary tract infection,,Valid,Valid,Valid
+Klebsiella pneumoniae,India,20115539,SAMN20115539,Klebsiella pneumoniae subsp. pneumoniae,India,urine,2014,Homo sapiens,Urinary tract infection,,Valid,Valid,Valid
+Klebsiella pneumoniae,India,20115068,SAMN20115068,Klebsiella pneumoniae subsp. pneumoniae,India,urine,2014,Homo sapiens,Urinary tract infection,,Valid,Valid,Valid
+Klebsiella pneumoniae,India,20115067,SAMN20115067,Klebsiella pneumoniae subsp. pneumoniae,India,urine,2014,Homo sapiens,Urinary tract infection,,Valid,Valid,Valid
+Klebsiella pneumoniae,India,20115065,SAMN20115065,Klebsiella pneumoniae subsp. pneumoniae,India,urine,2014,Homo sapiens,Urinary tract infection,,Valid,Valid,Valid
+Klebsiella pneumoniae,India,20115014,SAMN20115014,Klebsiella pneumoniae subsp. pneumoniae,India,urine,2014,Homo sapiens,Urinary tract infection,,Valid,Valid,Valid
+Klebsiella pneumoniae,India,20114569,SAMN20114569,Klebsiella pneumoniae subsp. pneumoniae,India,urine,2014,Homo sapiens,Urinary tract infection,,Valid,Valid,Valid
+Klebsiella pneumoniae,India,20114560,SAMN20114560,Klebsiella pneumoniae subsp. pneumoniae,India,urine,2014,Homo sapiens,Urinary tract infection,,Valid,Valid,Valid
+Klebsiella pneumoniae,India,20114528,SAMN20114528,Klebsiella pneumoniae subsp. pneumoniae,India,urine,2014,Homo sapiens,Urinary tract infection,,Valid,Valid,Valid
+Klebsiella pneumoniae,India,20114526,SAMN20114526,Klebsiella pneumoniae subsp. pneumoniae,India,urine,2014,Homo sapiens,Urinary tract infection,,Valid,Valid,Valid
+Klebsiella pneumoniae,India,20114525,SAMN20114525,Klebsiella pneumoniae subsp. pneumoniae,India,urine,2014,Homo sapiens,Urinary tract infection,,Valid,Valid,Valid
+Klebsiella pneumoniae,India,20114092,SAMN20114092,Klebsiella pneumoniae subsp. pneumoniae,India,urine,2014,Homo sapiens,Urinary tract infection,,Valid,Valid,Valid
+Klebsiella pneumoniae,India,20114091,SAMN20114091,Klebsiella pneumoniae subsp. pneumoniae,India,urine,2014,Homo sapiens,Urinary tract infection,,Valid,Valid,Valid
+Klebsiella pneumoniae,India,20113811,SAMN20113811,Klebsiella pneumoniae subsp. pneumoniae,India,urine,2014,Homo sapiens,Urinary tract infection,,Valid,Valid,Valid
+Klebsiella pneumoniae,India,20113810,SAMN20113810,Klebsiella pneumoniae subsp. pneumoniae,India,urine,2014,Homo sapiens,Urinary tract infection,,Valid,Valid,Valid
+Klebsiella pneumoniae,India,20113807,SAMN20113807,Klebsiella pneumoniae subsp. pneumoniae,India,urine,2014,Homo sapiens,Urinary tract infection,,Valid,Valid,Valid
+Klebsiella pneumoniae,Bangladesh,51480617,SAMEA118567362,Klebsiella pneumoniae,Bangladesh,,2011,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49773289,SAMEA118566941,Klebsiella pneumoniae,Bangladesh,,2008,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49731813,SAMEA118567071,Klebsiella pneumoniae,Bangladesh,,2004,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49731811,SAMEA118567128,Klebsiella pneumoniae,Bangladesh,,2008,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49731798,SAMEA118567126,Klebsiella pneumoniae,Bangladesh,,2008,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49731643,SAMEA118567129,Klebsiella pneumoniae,Bangladesh,,2008,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49731628,SAMEA118567107,Klebsiella pneumoniae,Bangladesh,,2007,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49731593,SAMEA118567132,Klebsiella pneumoniae,Bangladesh,,2007,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49731378,SAMEA118567046,Klebsiella pneumoniae,Bangladesh,,2007,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49731223,SAMEA118567125,Klebsiella pneumoniae,Bangladesh,,2008,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49731193,SAMEA118567127,Klebsiella pneumoniae,Bangladesh,,2008,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49731890,SAMEA118567111,Klebsiella pneumoniae,Bangladesh,,2007,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49731878,SAMEA118567121,Klebsiella pneumoniae,Bangladesh,,2007,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49731869,SAMEA118567122,Klebsiella pneumoniae,Bangladesh,,2007,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49731833,SAMEA118567104,Klebsiella pneumoniae,Bangladesh,,2006,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49731817,SAMEA118567109,Klebsiella pneumoniae,Bangladesh,,2007,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49731748,SAMEA118567120,Klebsiella pneumoniae,Bangladesh,,2007,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49731732,SAMEA118567110,Klebsiella pneumoniae,Bangladesh,,2007,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49731665,SAMEA118567114,Klebsiella pneumoniae,Bangladesh,,2007,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49731495,SAMEA118567115,Klebsiella pneumoniae,Bangladesh,,2007,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49731443,SAMEA118567117,Klebsiella pneumoniae,Bangladesh,,2007,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49731435,SAMEA118567118,Klebsiella pneumoniae,Bangladesh,,2007,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49731357,SAMEA118567108,Klebsiella pneumoniae,Bangladesh,,2007,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49731300,SAMEA118567112,Klebsiella pneumoniae,Bangladesh,,2007,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49731272,SAMEA118567119,Klebsiella pneumoniae,Bangladesh,,2007,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49731192,SAMEA118567123,Klebsiella pneumoniae,Bangladesh,,2008,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49715109,SAMEA118567080,Klebsiella pneumoniae,Bangladesh,,2006,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49715108,SAMEA118567031,Klebsiella pneumoniae,Bangladesh,,2005,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49715107,SAMEA118567100,Klebsiella pneumoniae,Bangladesh,,2006,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49715103,SAMEA118567087,Klebsiella pneumoniae,Bangladesh,,2006,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49715100,SAMEA118567067,Klebsiella pneumoniae,Bangladesh,,2008,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49715099,SAMEA118567096,Klebsiella pneumoniae,Bangladesh,,2006,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49715097,SAMEA118567102,Klebsiella pneumoniae,Bangladesh,,2006,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49715089,SAMEA118567074,Klebsiella pneumoniae,Bangladesh,,2005,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49715087,SAMEA118567054,Klebsiella pneumoniae,Bangladesh,,2008,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49715084,SAMEA118567098,Klebsiella pneumoniae,Bangladesh,,2006,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49715082,SAMEA118567044,Klebsiella pneumoniae,Bangladesh,,2007,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49715073,SAMEA118567078,Klebsiella pneumoniae,Bangladesh,,2005,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49715071,SAMEA118567072,Klebsiella pneumoniae,Bangladesh,,2005,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49715070,SAMEA118567033,Klebsiella pneumoniae,Bangladesh,,2006,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49715056,SAMEA118567051,Klebsiella pneumoniae,Bangladesh,,2008,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49715052,SAMEA118567065,Klebsiella pneumoniae,Bangladesh,,2008,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49715049,SAMEA118567061,Klebsiella pneumoniae,Bangladesh,,2008,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49715043,SAMEA118567048,Klebsiella pneumoniae,Bangladesh,,2007,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49715040,SAMEA118567052,Klebsiella pneumoniae,Bangladesh,,2008,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49715034,SAMEA118567091,Klebsiella pneumoniae,Bangladesh,,2006,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49715024,SAMEA118567089,Klebsiella pneumoniae,Bangladesh,,2006,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49715021,SAMEA118567045,Klebsiella pneumoniae,Bangladesh,,2007,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49715020,SAMEA118567034,Klebsiella pneumoniae,Bangladesh,,2007,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49715019,SAMEA118567059,Klebsiella pneumoniae,Bangladesh,,2008,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49715009,SAMEA118567082,Klebsiella pneumoniae,Bangladesh,,2006,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49715007,SAMEA118567058,Klebsiella pneumoniae,Bangladesh,,2008,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49715006,SAMEA118567049,Klebsiella pneumoniae,Bangladesh,,2008,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49715004,SAMEA118567103,Klebsiella pneumoniae,Bangladesh,,2006,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49715000,SAMEA118567041,Klebsiella pneumoniae,Bangladesh,,2007,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49714990,SAMEA118567057,Klebsiella pneumoniae,Bangladesh,,2008,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49714989,SAMEA118567055,Klebsiella pneumoniae,Bangladesh,,2008,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49714988,SAMEA118567097,Klebsiella pneumoniae,Bangladesh,,2006,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49714982,SAMEA118567083,Klebsiella pneumoniae,Bangladesh,,2006,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49714979,SAMEA118567073,Klebsiella pneumoniae,Bangladesh,,2005,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49714977,SAMEA118567037,Klebsiella pneumoniae,Bangladesh,,2007,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49714975,SAMEA118567086,Klebsiella pneumoniae,Bangladesh,,2006,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49714967,SAMEA118567062,Klebsiella pneumoniae,Bangladesh,,2008,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49714955,SAMEA118567066,Klebsiella pneumoniae,Bangladesh,,2008,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49714954,SAMEA118567050,Klebsiella pneumoniae,Bangladesh,,2008,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49714952,SAMEA118567092,Klebsiella pneumoniae,Bangladesh,,2006,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49714950,SAMEA118567056,Klebsiella pneumoniae,Bangladesh,,2008,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49714949,SAMEA118567077,Klebsiella pneumoniae,Bangladesh,,2005,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49714948,SAMEA118567094,Klebsiella pneumoniae,Bangladesh,,2006,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49714933,SAMEA118567090,Klebsiella pneumoniae,Bangladesh,,2006,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49714928,SAMEA118567035,Klebsiella pneumoniae,Bangladesh,,2007,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49714916,SAMEA118567070,Klebsiella pneumoniae,Bangladesh,,2004,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49714910,SAMEA118567093,Klebsiella pneumoniae,Bangladesh,,2006,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49714908,SAMEA118567069,Klebsiella pneumoniae,Bangladesh,,2004,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49714900,SAMEA118567036,Klebsiella pneumoniae,Bangladesh,,2007,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49714893,SAMEA118567095,Klebsiella pneumoniae,Bangladesh,,2006,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49714887,SAMEA118567081,Klebsiella pneumoniae,Bangladesh,,2006,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49714880,SAMEA118567032,Klebsiella pneumoniae,Bangladesh,,2006,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49714876,SAMEA118567047,Klebsiella pneumoniae,Bangladesh,,2007,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49714861,SAMEA118567076,Klebsiella pneumoniae,Bangladesh,,2005,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49702237,SAMEA118567000,Klebsiella pneumoniae,Bangladesh,,2007,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49702227,SAMEA118566975,Klebsiella pneumoniae,Bangladesh,,2010,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49702215,SAMEA118567021,Klebsiella pneumoniae,Bangladesh,,2008,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49702207,SAMEA118567002,Klebsiella pneumoniae,Bangladesh,,2013,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49702067,SAMEA118566937,Klebsiella pneumoniae,Bangladesh,,2008,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49701998,SAMEA118566978,Klebsiella pneumoniae,Bangladesh,,2010,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49701959,SAMEA118566974,Klebsiella pneumoniae,Bangladesh,,2010,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49701885,SAMEA118566939,Klebsiella pneumoniae,Bangladesh,,2008,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49701782,SAMEA118566998,Klebsiella pneumoniae,Bangladesh,,2013,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49701741,SAMEA118566924,Klebsiella pneumoniae,Bangladesh,,2012,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49701708,SAMEA118566976,Klebsiella pneumoniae,Bangladesh,,2010,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49701600,SAMEA118566936,Klebsiella pneumoniae,Bangladesh,,2007,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49701596,SAMEA118566914,Klebsiella pneumoniae,Bangladesh,,2009,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49701585,SAMEA118566925,Klebsiella pneumoniae,Bangladesh,,2012,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49701554,SAMEA118566997,Klebsiella pneumoniae,Bangladesh,,2013,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49701515,SAMEA118566915,Klebsiella pneumoniae,Bangladesh,,2014,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49701506,SAMEA118566940,Klebsiella pneumoniae,Bangladesh,,2008,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49701481,SAMEA118567020,Klebsiella pneumoniae,Bangladesh,,2008,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49701464,SAMEA118566935,Klebsiella pneumoniae,Bangladesh,,2007,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49701439,SAMEA118566973,Klebsiella pneumoniae,Bangladesh,,2010,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49701422,SAMEA118566927,Klebsiella pneumoniae,Bangladesh,,2006,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49701372,SAMEA118567006,Klebsiella pneumoniae,Bangladesh,,2006,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49701312,SAMEA118566926,Klebsiella pneumoniae,Bangladesh,,2013,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49701291,SAMEA118566934,Klebsiella pneumoniae,Bangladesh,,2007,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49701286,SAMEA118566916,Klebsiella pneumoniae,Bangladesh,,2009,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49701236,SAMEA118566977,Klebsiella pneumoniae,Bangladesh,,2010,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49701223,SAMEA118566999,Klebsiella pneumoniae,Bangladesh,,2007,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49701092,SAMEA118566996,Klebsiella pneumoniae,Bangladesh,,2012,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49701084,SAMEA118566938,Klebsiella pneumoniae,Bangladesh,,2008,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49701056,SAMEA118567001,Klebsiella pneumoniae,Bangladesh,,2008,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49701038,SAMEA118567003,Klebsiella pneumoniae,Bangladesh,,2013,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49702231,SAMEA118567489,Klebsiella pneumoniae,Bangladesh,,2010,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49702118,SAMEA118567024,Klebsiella pneumoniae,Bangladesh,,2008,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49702074,SAMEA118567018,Klebsiella pneumoniae,Bangladesh,,2008,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49702051,SAMEA118567503,Klebsiella pneumoniae,Bangladesh,,2013,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49701984,SAMEA118567013,Klebsiella pneumoniae,Bangladesh,,2007,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49701981,SAMEA118567492,Klebsiella pneumoniae,Bangladesh,,2012,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49701954,SAMEA118567009,Klebsiella pneumoniae,Bangladesh,,2007,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49701871,SAMEA118567026,Klebsiella pneumoniae,Bangladesh,,2012,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49701836,SAMEA118567499,Klebsiella pneumoniae,Bangladesh,,2014,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49701825,SAMEA118567019,Klebsiella pneumoniae,Bangladesh,,2008,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49701775,SAMEA118567493,Klebsiella pneumoniae,Bangladesh,,2012,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49701684,SAMEA118567500,Klebsiella pneumoniae,Bangladesh,,2011,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49701668,SAMEA118567008,Klebsiella pneumoniae,Bangladesh,,2006,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49701584,SAMEA118567485,Klebsiella pneumoniae,Bangladesh,,2011,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49701483,SAMEA118567010,Klebsiella pneumoniae,Bangladesh,,2007,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49701368,SAMEA118567017,Klebsiella pneumoniae,Bangladesh,,2008,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49701253,SAMEA118567491,Klebsiella pneumoniae,Bangladesh,,2012,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49701252,SAMEA118567501,Klebsiella pneumoniae,Bangladesh,,2011,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49701198,SAMEA118567488,Klebsiella pneumoniae,Bangladesh,,2011,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49701098,SAMEA118567025,Klebsiella pneumoniae,Bangladesh,,2008,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49701069,SAMEA118567487,Klebsiella pneumoniae,Bangladesh,,2010,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49691378,SAMEA118567421,Klebsiella pneumoniae,Bangladesh,,2012,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49691356,SAMEA118567422,Klebsiella pneumoniae,Bangladesh,,2011,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49691349,SAMEA118567495,Klebsiella pneumoniae,Bangladesh,,2014,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49691328,SAMEA118566963,Klebsiella pneumoniae,Bangladesh,,2008,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49691325,SAMEA118566960,Klebsiella pneumoniae,Bangladesh,,2008,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49691309,SAMEA118566932,Klebsiella pneumoniae,Bangladesh,,2007,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49691291,SAMEA118566921,Klebsiella pneumoniae,Bangladesh,,2011,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49691266,SAMEA118566965,Klebsiella pneumoniae,Bangladesh,,2008,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49691250,SAMEA118567014,Klebsiella pneumoniae,Bangladesh,,2007,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49691245,SAMEA118566913,Klebsiella pneumoniae,Bangladesh,,2014,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49691239,SAMEA118566951,Klebsiella pneumoniae,Bangladesh,,2013,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49691226,SAMEA118567497,Klebsiella pneumoniae,Bangladesh,,2013,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49691223,SAMEA118566990,Klebsiella pneumoniae,Bangladesh,,2011,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49691222,SAMEA118566985,Klebsiella pneumoniae,Bangladesh,,2010,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49691215,SAMEA118567228,Klebsiella pneumoniae,Bangladesh,,2012,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49691211,SAMEA118567509,Klebsiella pneumoniae,Bangladesh,,2005,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49691210,SAMEA118566959,Klebsiella pneumoniae,Bangladesh,,2008,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49691199,SAMEA118566943,Klebsiella pneumoniae,Bangladesh,,2008,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49691178,SAMEA118566942,Klebsiella pneumoniae,Bangladesh,,2008,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49691150,SAMEA118567427,Klebsiella pneumoniae,Bangladesh,,2013,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49691149,SAMEA118567496,Klebsiella pneumoniae,Bangladesh,,2012,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49691138,SAMEA118566984,Klebsiella pneumoniae,Bangladesh,,2010,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49691137,SAMEA118566950,Klebsiella pneumoniae,Bangladesh,,2013,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49691109,SAMEA118567508,Klebsiella pneumoniae,Bangladesh,,2010,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49691104,SAMEA118566972,Klebsiella pneumoniae,Bangladesh,,2009,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49691097,SAMEA118566954,Klebsiella pneumoniae,Bangladesh,,2009,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49691086,SAMEA118566949,Klebsiella pneumoniae,Bangladesh,,2011,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49691082,SAMEA118567023,Klebsiella pneumoniae,Bangladesh,,2008,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49691072,SAMEA118566962,Klebsiella pneumoniae,Bangladesh,,2008,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49691050,SAMEA118566986,Klebsiella pneumoniae,Bangladesh,,2010,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49691048,SAMEA118566956,Klebsiella pneumoniae,Bangladesh,,2007,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49691040,SAMEA118566948,Klebsiella pneumoniae,Bangladesh,,2010,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49691038,SAMEA118566988,Klebsiella pneumoniae,Bangladesh,,2010,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49691034,SAMEA118566958,Klebsiella pneumoniae,Bangladesh,,2007,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49691022,SAMEA118567022,Klebsiella pneumoniae,Bangladesh,,2008,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49691012,SAMEA118567423,Klebsiella pneumoniae,Bangladesh,,2012,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49691011,SAMEA118566980,Klebsiella pneumoniae,Bangladesh,,2010,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49691009,SAMEA118567428,Klebsiella pneumoniae,Bangladesh,,2011,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49691004,SAMEA118566931,Klebsiella pneumoniae,Bangladesh,,2007,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49690994,SAMEA118566928,Klebsiella pneumoniae,Bangladesh,,2006,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49690992,SAMEA118566964,Klebsiella pneumoniae,Bangladesh,,2008,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49690979,SAMEA118567494,Klebsiella pneumoniae,Bangladesh,,2011,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49690972,SAMEA118566981,Klebsiella pneumoniae,Bangladesh,,2010,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49690965,SAMEA118566989,Klebsiella pneumoniae,Bangladesh,,2010,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49690963,SAMEA118566957,Klebsiella pneumoniae,Bangladesh,,2007,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49690945,SAMEA118566911,Klebsiella pneumoniae,Bangladesh,,2004,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49690940,SAMEA118566982,Klebsiella pneumoniae,Bangladesh,,2010,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49690933,SAMEA118567426,Klebsiella pneumoniae,Bangladesh,,2013,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49690918,SAMEA118566994,Klebsiella pneumoniae,Bangladesh,,2011,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49690915,SAMEA118566953,Klebsiella pneumoniae,Bangladesh,,2009,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49690895,SAMEA118566952,Klebsiella pneumoniae,Bangladesh,,2014,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49690881,SAMEA118567229,Klebsiella pneumoniae,Bangladesh,,2012,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49690874,SAMEA118566970,Klebsiella pneumoniae,Bangladesh,,2007,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49690856,SAMEA118567506,Klebsiella pneumoniae,Bangladesh,,2010,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49690854,SAMEA118567434,Klebsiella pneumoniae,Bangladesh,,2012,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,Bangladesh,49690850,SAMEA118566947,Klebsiella pneumoniae,Bangladesh,,2010,,,,Valid,Missing,Missing
+Klebsiella pneumoniae,United Kingdom,42447520,SAMN42447520,Klebsiella pneumoniae,United Kingdom,missing,2012-11,Homo sapiens,,ST258,Valid,Malformed,Valid
+Salmonella,India,44407338,SAMN44407338,Salmonella enterica,USA:CA,chilli powder,1999-06-28,,,,Valid,Valid,Missing
+Salmonella,India,44407337,SAMN44407337,Salmonella enterica,USA:CA,chilli powder,1999-06-28,,,,Valid,Valid,Missing
+Salmonella,India,20346944,SAMN20346944,Salmonella enterica,India,not applicable,1905-05-18,,,,Valid,Malformed,Missing
+Salmonella,India,17865258,SAMN17865258,Salmonella enterica subsp. enterica serovar Senftenberg,India: Kolkata,goat meat,2012-09,,,,Valid,Valid,Missing
+Salmonella,India,4160811,SAMN04160811,Salmonella enterica subsp. enterica serovar India str. SA20085604,"Canada: Quebec, Saint-Hyacinthe",missing,2008-09-01,,,,Valid,Malformed,Missing
+Salmonella,India,3700975,SAMN03700975,Salmonella enterica subsp. enterica,India,frog leg,1973-05-23,,missing,,Valid,Valid,Missing
+Salmonella,India,1942320,SAMN01942320,Salmonella enterica subsp. enterica serovar Bareilly str. CFSAN001088,India,"Tuna, Frozen Ground Yellowfin",2012-05-17,,missing,,Valid,Valid,Missing
+Salmonella,India,1942317,SAMN01942317,Salmonella enterica subsp. enterica serovar Bareilly str. CFSAN001140,India,"tuna scrape, yellowfin",2012-04-12,,missing,,Valid,Valid,Missing
+Salmonella,India,1942312,SAMN01942312,Salmonella enterica subsp. enterica serovar Bareilly str. CFSAN000209,India,sesame seeds,2010-09-30,,missing,,Valid,Valid,Missing
+Salmonella,India,1942311,SAMN01942311,Salmonella enterica subsp. enterica serovar Bareilly str. CFSAN001105,India,"tuna scrape, Frozen vacuum packaged yellowfin",2012-04-17,,missing,,Valid,Valid,Missing
+Salmonella,India,1942305,SAMN01942305,Salmonella enterica subsp. enterica serovar Bareilly str. CFSAN000219,India,"Pepper, Organic Black",2011-06-27,,missing,,Valid,Valid,Missing
+Salmonella,India,1942297,SAMN01942297,Salmonella enterica subsp. enterica serovar Bareilly str. CFSAN000215,India,shrimp,2000-10-17,,missing,,Valid,Valid,Missing
+Salmonella,India,1942278,SAMN01942278,Salmonella enterica subsp. enterica serovar Bareilly str. CFSAN001108,India,"TUNA STRIPS, FROZEN YELLOWFIN",2012-04-16,,missing,,Valid,Valid,Missing
+Salmonella,India,1942274,SAMN01942274,Salmonella enterica subsp. enterica serovar Bareilly str. CFSAN001090,India,"Tuna, Frozen Ground Yellowfin",2012-05-17,,missing,,Valid,Valid,Missing
+Salmonella,India,1942272,SAMN01942272,Salmonella enterica subsp. enterica serovar Bareilly str. CFSAN000190,India,"Shrimp, Frozen Raw Peeled",2004-02-26,,missing,,Valid,Valid,Missing
+Salmonella,India,1942270,SAMN01942270,Salmonella enterica subsp. enterica serovar Bareilly str. CFSAN000230,India,Chili Powder,2009-06-01,,missing,,Valid,Valid,Missing
+Salmonella,India,1942260,SAMN01942260,Salmonella enterica subsp. enterica serovar Bareilly str. CFSAN000233,India,Chili Powder,2010-09-09,,missing,,Valid,Valid,Missing
+Salmonella,India,1942259,SAMN01942259,Salmonella enterica subsp. enterica serovar Bareilly str. CFSAN000223,India,"Rohu Fish, Frozen",2001-10-12,,missing,,Valid,Valid,Missing
+Salmonella,India,1942257,SAMN01942257,Salmonella enterica subsp. enterica serovar Bareilly str. CFSAN001109,India,"tuna scrape, Frozen vacuum packaged yellowfin",2012-04-19,,missing,,Valid,Valid,Missing
+Salmonella,India,1942256,SAMN01942256,Salmonella enterica subsp. enterica serovar Bareilly str. CFSAN001112,India,"Tuna Scrape, Frozen Yellowfin Nakaoachi",2012-04-25,,missing,,Valid,Valid,Missing
+Salmonella,India,1942247,SAMN01942247,Salmonella enterica subsp. enterica serovar Bareilly str. CFSAN001115,India,"Tuna Scrape, Frozen Yellowfin Nakaoachi",2012-04-25,,missing,,Valid,Valid,Missing
+Salmonella,India,1942243,SAMN01942243,Salmonella enterica subsp. enterica serovar Bareilly str. CFSAN001099,India,"Tuna, Frozen Ground",2012-04-12,,missing,,Valid,Valid,Missing
+Salmonella,India,1942242,SAMN01942242,Salmonella enterica subsp. enterica serovar Bareilly str. CFSAN000227,India,Coriander Powder,2003-09-17,,missing,,Valid,Valid,Missing
+Salmonella,India,17865566,SAMN17865566,Salmonella enterica subsp. enterica serovar Kentucky,India: Kolkata,rectal swab,2011-06,Homo sapiens,diarrhoea,,Valid,Valid,Valid
+Salmonella,India,17817318,SAMN17817318,Salmonella enterica subsp. enterica serovar Kentucky,India: Kolkata,rectal swab,2014-07,Homo sapiens,diarrhoea,,Valid,Valid,Valid
+Salmonella,India,17817301,SAMN17817301,Salmonella enterica subsp. enterica serovar Senftenberg,India: Kolkata,stool,2009-12,Homo sapiens,diarrhoea and respiratory distress,,Valid,Valid,Valid
+Salmonella,India,17817294,SAMN17817294,Salmonella enterica subsp. enterica serovar Infantis,India: Kolkata,rectal swab,2013-06,Homo sapiens,diarrhoea,,Valid,Valid,Valid
+Salmonella,India,16712244,SAMN16712244,Salmonella enterica subsp. enterica serovar Worthington,India: Kolkata,Rectal swab,2007-07-30,Homo sapiens,Diarrhoea,,Valid,Valid,Valid
+Salmonella,India,16712090,SAMN16712090,Salmonella enterica subsp. enterica serovar Worthington,India: Kolkata,Rectal swab,2007-07-27,Homo sapiens,Diarrhoea,,Valid,Valid,Valid
+Salmonella,India,16712082,SAMN16712082,Salmonella enterica subsp. enterica serovar Worthington,India: Kolkata,Rectal swab,2005-12-09,Homo sapiens,Diarrhoea,,Valid,Valid,Valid
+Salmonella,India,16712077,SAMN16712077,Salmonella enterica subsp. enterica serovar Worthington,India: Kolkata,rectal swab,2001-02-09,Homo sapiens,Diarrhoea,,Valid,Valid,Valid
+Salmonella,India,16712023,SAMN16712023,Salmonella enterica subsp. enterica serovar Worthington,India: Kolkata,rectal swab,2000-09-07,Homo sapiens,diarrhoea,,Valid,Valid,Valid
+Salmonella,India,48764893,SAMN48764893,Salmonella enterica subsp. enterica serovar Paratyphi A,India,blood,2014-10-20,Homo sapiens,Salmonella infection,,Valid,Valid,Valid
+Salmonella,India,41071123,SAMN41071123,Salmonella enterica subsp. enterica serovar Bareilly,India,frozen raw shrimp,2003-05-13,,,,Valid,Valid,Missing
+Salmonella,Bangladesh,1942315,SAMN01942315,Salmonella enterica subsp. enterica serovar Bareilly str. CFSAN000229,Bangladesh,"Baila Fish, Frozen",2007-02-08,,missing,,Valid,Valid,Missing
+Salmonella,Bangladesh,1942303,SAMN01942303,Salmonella enterica subsp. enterica serovar Bareilly str. CFSAN000222,Bangladesh,Pabda Fish,2001-07-09,,missing,,Valid,Valid,Missing
+Salmonella,Bangladesh,13031080,SAMEA5861556,Salmonella enterica subsp. enterica serovar Paratyphi A,Bangladesh,,2012,Homo sapiens,,,Valid,Missing,Valid
+Salmonella,Bangladesh,13031078,SAMEA5861554,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,,2013,Homo sapiens,,,Valid,Missing,Valid
+Salmonella,Bangladesh,13031076,SAMEA5861552,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,,2012,Homo sapiens,,,Valid,Missing,Valid
+Salmonella,Bangladesh,13031075,SAMEA5861551,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,,2012,Homo sapiens,,,Valid,Missing,Valid
+Salmonella,Bangladesh,13031074,SAMEA5861550,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,,2012,Homo sapiens,,,Valid,Missing,Valid
+Salmonella,Bangladesh,13031067,SAMEA5861543,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,,2014,Homo sapiens,,,Valid,Missing,Valid
+Salmonella,Bangladesh,13031066,SAMEA5861542,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,,2014,Homo sapiens,,,Valid,Missing,Valid
+Salmonella,Bangladesh,13031065,SAMEA5861541,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,,2014,Homo sapiens,,,Valid,Missing,Valid
+Salmonella,Bangladesh,13031064,SAMEA5861540,Salmonella enterica subsp. enterica serovar Paratyphi A,Bangladesh,,2014,Homo sapiens,,,Valid,Missing,Valid
+Salmonella,Bangladesh,13031063,SAMEA5861539,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,,2014,Homo sapiens,,,Valid,Missing,Valid
+Salmonella,Bangladesh,13031062,SAMEA5861538,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,,2013,Homo sapiens,,,Valid,Missing,Valid
+Salmonella,Bangladesh,13031061,SAMEA5861537,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,,2013,Homo sapiens,,,Valid,Missing,Valid
+Salmonella,Bangladesh,11174925,SAMN11174925,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh: Dhaka,blood,2014-10-04,Homo sapiens,Enteric fever,,Valid,Valid,Valid
+Salmonella,Bangladesh,11174924,SAMN11174924,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh: Dhaka,blood,2014-08-11,Homo sapiens,Enteric fever,,Valid,Valid,Valid
+Salmonella,Bangladesh,11174923,SAMN11174923,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh: Dhaka,blood,2014-05-07,Homo sapiens,Enteric fever,,Valid,Valid,Valid
+Salmonella,Bangladesh,11174922,SAMN11174922,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh: Dhaka,blood,2014-04-06,Homo sapiens,Enteric fever,,Valid,Valid,Valid
+Salmonella,Bangladesh,11174921,SAMN11174921,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh: Dhaka,blood,2013-08-11,Homo sapiens,Enteric fever,,Valid,Valid,Valid
+Salmonella,Bangladesh,11174920,SAMN11174920,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh: Dhaka,blood,2013-07-17,Homo sapiens,Enteric fever,,Valid,Valid,Valid
+Salmonella,Bangladesh,11174919,SAMN11174919,Salmonella enterica subsp. enterica serovar Paratyphi A,Bangladesh: Dhaka,blood,2014-04-23,Homo sapiens,Enteric fever,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299650,SAMEA4820879,Salmonella enterica subsp. enterica serovar Paratyphi A,Bangladesh,human,2001,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299213,SAMEA4759589,Salmonella enterica subsp. enterica serovar Paratyphi A,Bangladesh,human,2005,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299212,SAMEA4759588,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2005,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299211,SAMEA4759587,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2008,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299210,SAMEA4759586,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2008,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299209,SAMEA4759585,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2008,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299208,SAMEA4759584,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2008,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299207,SAMEA4759583,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2008,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299206,SAMEA4759582,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2012,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299205,SAMEA4759581,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2008,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299204,SAMEA4759580,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2012,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299203,SAMEA4759579,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2008,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299202,SAMEA4759578,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2012,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299201,SAMEA4759577,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2008,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299200,SAMEA4759576,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2012,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299199,SAMEA4759575,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2008,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299198,SAMEA4759574,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2008,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299197,SAMEA4759573,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2012,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299196,SAMEA4759572,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2008,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299195,SAMEA4759571,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2012,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299194,SAMEA4759570,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2008,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299193,SAMEA4759569,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2012,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299192,SAMEA4759568,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2008,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299191,SAMEA4759567,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2012,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299190,SAMEA4759566,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2012,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299189,SAMEA4759565,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2007,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299188,SAMEA4759564,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2012,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299187,SAMEA4759563,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2007,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299186,SAMEA4759562,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2012,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299185,SAMEA4759561,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2007,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299184,SAMEA4759560,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2012,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299183,SAMEA4759559,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2007,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299182,SAMEA4759558,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2007,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299181,SAMEA4759557,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2012,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299180,SAMEA4759556,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2007,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299179,SAMEA4759555,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2012,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299178,SAMEA4759554,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2007,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299177,SAMEA4759553,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2012,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299176,SAMEA4759552,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2007,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299175,SAMEA4759551,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2012,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299174,SAMEA4759550,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2012,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299173,SAMEA4759549,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2007,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299172,SAMEA4759548,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2011,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299171,SAMEA4759547,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2007,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299170,SAMEA4759546,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2011,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299169,SAMEA4759545,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2007,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299168,SAMEA4759544,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2011,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299167,SAMEA4759543,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2007,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299166,SAMEA4759542,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2007,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299165,SAMEA4759541,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2011,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299164,SAMEA4759540,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2006,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299163,SAMEA4759539,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2011,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299162,SAMEA4759538,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2006,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299161,SAMEA4759537,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2011,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299160,SAMEA4759536,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2006,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299159,SAMEA4759535,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2011,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299158,SAMEA4759534,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2011,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299157,SAMEA4759533,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2005,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299156,SAMEA4759532,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2011,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299155,SAMEA4759531,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2005,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299154,SAMEA4759530,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2011,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299153,SAMEA4759529,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2005,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299152,SAMEA4759528,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2011,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299151,SAMEA4759527,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2005,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299150,SAMEA4759526,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2005,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299149,SAMEA4759525,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2011,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299148,SAMEA4759524,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2005,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299147,SAMEA4759523,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2011,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299146,SAMEA4759522,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2004,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299145,SAMEA4759521,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2011,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299144,SAMEA4759520,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2004,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299143,SAMEA4759519,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2011,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299142,SAMEA4759518,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2011,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299141,SAMEA4759517,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2004,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299140,SAMEA4759516,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2011,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299139,SAMEA4759515,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2004,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299138,SAMEA4759514,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2011,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299137,SAMEA4759513,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2008,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299136,SAMEA4759512,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2011,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299135,SAMEA4759511,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2008,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299134,SAMEA4759510,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2007,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299133,SAMEA4759509,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2011,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299132,SAMEA4759508,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2007,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299131,SAMEA4759507,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2011,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299130,SAMEA4759506,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2007,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299129,SAMEA4759505,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2010,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299128,SAMEA4759504,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2006,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299127,SAMEA4759503,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2010,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299126,SAMEA4759502,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2010,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299125,SAMEA4759501,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2010,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299124,SAMEA4759500,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2006,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299123,SAMEA4759499,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2010,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299122,SAMEA4759498,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2006,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299121,SAMEA4759497,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2010,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299120,SAMEA4759496,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2005,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299119,SAMEA4759495,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2010,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299118,SAMEA4759494,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2010,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299117,SAMEA4759493,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2010,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299116,SAMEA4759492,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2010,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299115,SAMEA4759491,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2010,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299114,SAMEA4759490,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2010,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299113,SAMEA4759489,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2010,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299112,SAMEA4759488,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2010,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299111,SAMEA4759487,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2010,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299110,SAMEA4759486,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2010,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299109,SAMEA4759485,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2010,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299108,SAMEA4759484,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2010,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299107,SAMEA4759483,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2009,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299106,SAMEA4759482,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2009,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299105,SAMEA4759481,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2009,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299104,SAMEA4759480,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2009,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299103,SAMEA4759479,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2009,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299102,SAMEA4759478,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2009,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299101,SAMEA4759477,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2009,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299100,SAMEA4759476,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2009,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299099,SAMEA4759475,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2009,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299098,SAMEA4759474,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2009,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299097,SAMEA4759473,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2009,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299096,SAMEA4759472,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2009,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299095,SAMEA4759471,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2009,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299094,SAMEA4759470,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2009,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299093,SAMEA4759469,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2009,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299092,SAMEA4759468,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2009,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299091,SAMEA4759467,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2009,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299090,SAMEA4759466,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2009,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299089,SAMEA4759465,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2009,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299088,SAMEA4759464,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2009,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299087,SAMEA4759463,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2008,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299086,SAMEA4759462,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2007,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299085,SAMEA4759461,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2007,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299084,SAMEA4759460,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2006,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299083,SAMEA4759459,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2006,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299082,SAMEA4759458,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2006,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299081,SAMEA4759457,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2005,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299080,SAMEA4759456,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2005,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299079,SAMEA4759455,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2008,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299078,SAMEA4759454,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2006,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299077,SAMEA4759453,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2006,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299076,SAMEA4759452,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2013,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299075,SAMEA4759451,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2013,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299074,SAMEA4759450,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2013,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299073,SAMEA4759449,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2013,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299072,SAMEA4759448,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2013,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299071,SAMEA4759447,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2013,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299070,SAMEA4759446,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2013,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299069,SAMEA4759445,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2013,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299068,SAMEA4759444,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2013,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299067,SAMEA4759443,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2013,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299066,SAMEA4759442,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2012,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299065,SAMEA4759441,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2013,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299064,SAMEA4759440,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2012,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299063,SAMEA4759439,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2013,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299062,SAMEA4759438,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2012,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299061,SAMEA4759437,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2013,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299060,SAMEA4759436,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2013,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299059,SAMEA4759435,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2013,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,Bangladesh,10299058,SAMEA4759434,Salmonella enterica subsp. enterica serovar Typhi,Bangladesh,human,2013,Homo sapiens,,,Valid,Valid,Valid
+Salmonella,United Kingdom,42487365,SAMEA115761806,Salmonella enterica subsp. enterica serovar Agona,United Kingdom,missing,2014,Homo sapiens,,,Valid,Malformed,Valid
+Salmonella,United Kingdom,42487316,SAMEA115761709,Salmonella enterica subsp. enterica serovar Agona,United Kingdom,missing,2008,Homo sapiens,,,Valid,Malformed,Valid
+Salmonella,United Kingdom,42487284,SAMEA115761643,Salmonella enterica subsp. enterica serovar Agona,United Kingdom,missing,2008,Homo sapiens,,,Valid,Malformed,Valid
+Salmonella,United Kingdom,42155495,SAMEA115761791,Salmonella enterica subsp. enterica serovar Agona,United Kingdom,missing,2012,Homo sapiens,,,Valid,Malformed,Valid
+Salmonella,United Kingdom,29200973,SAMEA110144035,Salmonella enterica subsp. enterica serovar Concord,United Kingdom,not applicable,2004,Homo sapiens,,,Valid,Malformed,Valid
+Salmonella,United Kingdom,29200972,SAMEA110144034,Salmonella enterica subsp. enterica serovar Concord,United Kingdom,not applicable,2004,Homo sapiens,,,Valid,Malformed,Valid
+Salmonella,United Kingdom,21710586,SAMEA8992460,Salmonella enterica subsp. enterica serovar Typhimurium,United Kingdom,not known,2000,missing,,,Valid,Valid,Malformed
+Salmonella,United Kingdom,21710460,SAMEA8992333,Salmonella enterica subsp. enterica serovar Typhimurium,United Kingdom,not known,2000,missing,,,Valid,Valid,Malformed
+Salmonella,United Kingdom,21710459,SAMEA8992332,Salmonella enterica subsp. enterica serovar Typhimurium,United Kingdom,not known,2000,missing,,,Valid,Valid,Malformed
+Salmonella,United Kingdom,21710458,SAMEA8992331,Salmonella enterica subsp. enterica serovar Typhimurium,United Kingdom,not known,2000,missing,,,Valid,Valid,Malformed
+Salmonella,United Kingdom,21710457,SAMEA8992330,Salmonella enterica subsp. enterica serovar Typhimurium,United Kingdom,not known,2000,missing,,,Valid,Valid,Malformed
+Salmonella,United Kingdom,21710456,SAMEA8992329,Salmonella enterica subsp. enterica serovar Typhimurium,United Kingdom,not known,2000,missing,,,Valid,Valid,Malformed
+Salmonella,United Kingdom,21710455,SAMEA8992328,Salmonella enterica subsp. enterica serovar Typhimurium,United Kingdom,not known,2000,missing,,,Valid,Valid,Malformed
+Salmonella,United Kingdom,21710454,SAMEA8992327,Salmonella enterica subsp. enterica serovar Typhimurium,United Kingdom,not known,2000,missing,,,Valid,Valid,Malformed
+Salmonella,United Kingdom,21710453,SAMEA8992326,Salmonella enterica subsp. enterica serovar Typhimurium,United Kingdom,not known,2000,missing,,,Valid,Valid,Malformed
+Salmonella,United Kingdom,21710452,SAMEA8992325,Salmonella enterica subsp. enterica serovar Typhimurium,United Kingdom,not known,2000,missing,,,Valid,Valid,Malformed
+Salmonella,United Kingdom,21710270,SAMEA8990579,Salmonella enterica subsp. enterica serovar Typhimurium,United Kingdom,not known,2000,missing,,,Valid,Valid,Malformed
+Salmonella,United Kingdom,21710269,SAMEA8990575,Salmonella enterica subsp. enterica serovar Typhimurium,United Kingdom,not known,2000,missing,,,Valid,Valid,Malformed
+Salmonella,United Kingdom,21710268,SAMEA8990574,Salmonella enterica subsp. enterica serovar Typhimurium,United Kingdom,not known,2000,missing,,,Valid,Valid,Malformed
+Salmonella,United Kingdom,21710267,SAMEA8990573,Salmonella enterica subsp. enterica serovar Typhimurium,United Kingdom,not known,2000,missing,,,Valid,Valid,Malformed
+Salmonella,United Kingdom,21710266,SAMEA8990572,Salmonella enterica subsp. enterica serovar Typhimurium,United Kingdom,not known,2000,missing,,,Valid,Valid,Malformed
+Salmonella,United Kingdom,21710265,SAMEA8990571,Salmonella enterica subsp. enterica serovar Typhimurium,United Kingdom,not known,2000,missing,,,Valid,Valid,Malformed
+Salmonella,United Kingdom,21710264,SAMEA8990570,Salmonella enterica subsp. enterica serovar Typhimurium,United Kingdom,not known,2000,missing,,,Valid,Valid,Malformed
+Salmonella,United Kingdom,21710252,SAMEA8990558,Salmonella enterica subsp. enterica serovar Typhimurium,United Kingdom,not known,2000,missing,,,Valid,Valid,Malformed
+Salmonella,United Kingdom,21710215,SAMEA8988186,Salmonella enterica subsp. enterica serovar Typhimurium,United Kingdom,not known,2000,missing,,,Valid,Valid,Malformed
+Salmonella,United Kingdom,21710212,SAMEA8987478,Salmonella enterica subsp. enterica serovar Typhimurium,United Kingdom,not known,2000,missing,,,Valid,Valid,Malformed
+Salmonella,United Kingdom,21710181,SAMEA8987281,Salmonella enterica subsp. enterica serovar Typhimurium,United Kingdom,not known,2000,missing,,,Valid,Valid,Malformed
+Salmonella,United Kingdom,21710118,SAMEA8987218,Salmonella enterica subsp. enterica serovar Typhimurium,United Kingdom,not known,2000,missing,,,Valid,Valid,Malformed
+Salmonella,United Kingdom,21710117,SAMEA8987217,Salmonella enterica subsp. enterica serovar Typhimurium,United Kingdom,not known,2000,missing,,,Valid,Valid,Malformed
+Salmonella,United Kingdom,21709890,SAMEA8983377,Salmonella enterica subsp. enterica serovar Typhimurium,United Kingdom,not known,2000,missing,,,Valid,Valid,Malformed
+Salmonella,United Kingdom,21709889,SAMEA8983376,Salmonella enterica subsp. enterica serovar Typhimurium,United Kingdom,not known,2000,missing,,,Valid,Valid,Malformed
+Salmonella,United Kingdom,21709500,SAMEA8969983,Salmonella enterica subsp. enterica serovar Typhimurium,United Kingdom,not known,2000,missing,,,Valid,Valid,Malformed
+Salmonella,United Kingdom,21709499,SAMEA8969982,Salmonella enterica subsp. enterica serovar Typhimurium,United Kingdom,not known,2000,missing,,,Valid,Valid,Malformed
+Salmonella,United Kingdom,21709498,SAMEA8969981,Salmonella enterica subsp. enterica serovar Typhimurium,United Kingdom,not known,2000,missing,,,Valid,Valid,Malformed
+Salmonella,United Kingdom,21709497,SAMEA8969980,Salmonella enterica subsp. enterica serovar Typhimurium,United Kingdom,not known,2000,missing,,,Valid,Valid,Malformed
+Salmonella,United Kingdom,21708359,SAMEA8963588,Salmonella enterica subsp. enterica serovar Typhimurium str. SJ2353,United Kingdom,not known,2000,missing,,,Valid,Valid,Malformed
+Salmonella,United Kingdom,10449450,SAMN10449450,Salmonella enterica,United Kingdom: Liverpool School Of Tropical Medicine Venom Unit,Non-venomous reptile,2014,Gonocephalus chamaeleontinus,,,Valid,Valid,Valid
+Salmonella,United Kingdom,10449449,SAMN10449449,Salmonella enterica,United Kingdom: Liverpool School Of Tropical Medicine Venom Unit,Non-venomous reptile,2014,Varanus komodoensis,,,Valid,Valid,Valid
+Salmonella,United Kingdom,10449448,SAMN10449448,Salmonella enterica,United Kingdom: Liverpool School Of Tropical Medicine Venom Unit,Non-venomous reptile,2014,Serpentes,,,Valid,Valid,Valid
+Salmonella,United Kingdom,10449447,SAMN10449447,Salmonella enterica,United Kingdom: Liverpool School Of Tropical Medicine Venom Unit,Non-venomous reptile,2014,Morelia spilota,,,Valid,Valid,Valid
+Salmonella,United Kingdom,10449446,SAMN10449446,Salmonella enterica,United Kingdom: Liverpool School Of Tropical Medicine Venom Unit,Non-venomous reptile,2014,Gonocephalus chamaeleontinus,,,Valid,Valid,Valid
+Salmonella,United Kingdom,10449445,SAMN10449445,Salmonella enterica,United Kingdom: Liverpool School Of Tropical Medicine Venom Unit,Non-venomous reptile,2013,Bracaena guianensis,,,Valid,Valid,Valid
+Salmonella,United Kingdom,10449444,SAMN10449444,Salmonella enterica,United Kingdom: Liverpool School Of Tropical Medicine Venom Unit,Non-venomous reptile,2013,Chilabothrus subflavus,,,Valid,Valid,Valid
+Salmonella,United Kingdom,10449443,SAMN10449443,Salmonella enterica subsp. enterica serovar Johannesburg,United Kingdom: Liverpool School Of Tropical Medicine Venom Unit,Non-venomous reptile,2013,Chilabothrus subflavus,,,Valid,Valid,Valid
+Salmonella,United Kingdom,10449442,SAMN10449442,Salmonella enterica subsp. enterica serovar Johannesburg,United Kingdom: Liverpool School Of Tropical Medicine Venom Unit,Non-venomous reptile,2013,Takydromus sexlineatus,,,Valid,Valid,Valid
+Salmonella,United Kingdom,10449441,SAMN10449441,Salmonella enterica,United Kingdom: Liverpool School Of Tropical Medicine Venom Unit,Non-venomous reptile,2013,Sceloporus cyanogenys,,,Valid,Valid,Valid
+Salmonella,United Kingdom,10449440,SAMN10449440,Salmonella enterica,United Kingdom: Liverpool School Of Tropical Medicine Venom Unit,Non-venomous reptile,2012,Laemanetus serratus,,,Valid,Valid,Valid
+Salmonella,United Kingdom,10449439,SAMN10449439,Salmonella enterica,United Kingdom: Liverpool School Of Tropical Medicine Venom Unit,Non-venomous reptile,2012,Serpentes,,,Valid,Valid,Valid
+Salmonella,United Kingdom,10449438,SAMN10449438,Salmonella enterica,United Kingdom: Liverpool School Of Tropical Medicine Venom Unit,Non-venomous reptile,2012,Bronchoela cristatella,,,Valid,Valid,Valid
+Salmonella,United Kingdom,10449437,SAMN10449437,Salmonella enterica,United Kingdom: Liverpool School Of Tropical Medicine Venom Unit,Non-venomous reptile,2011,Morelia spilota,,,Valid,Valid,Valid
+Salmonella,United Kingdom,10449436,SAMN10449436,Salmonella enterica,United Kingdom: Liverpool School Of Tropical Medicine Venom Unit,Non-venomous reptile,2011,Heloderma horridum,,,Valid,Valid,Valid
+Salmonella,United Kingdom,10449435,SAMN10449435,Salmonella enterica,United Kingdom: Liverpool School Of Tropical Medicine Venom Unit,Non-venomous reptile,2011,Serpentes,,,Valid,Valid,Valid
+Salmonella,United Kingdom,10449434,SAMN10449434,Salmonella enterica,United Kingdom: Liverpool School Of Tropical Medicine Venom Unit,Non-venomous reptile,2011,Lacerta agilis,,,Valid,Valid,Valid
+Salmonella,United Kingdom,10449433,SAMN10449433,Salmonella enterica,United Kingdom: Liverpool School Of Tropical Medicine Venom Unit,Non-venomous reptile,2011,Pythonidae,,,Valid,Valid,Valid
+Salmonella,United Kingdom,10449432,SAMN10449432,Salmonella enterica,United Kingdom: Liverpool School Of Tropical Medicine Venom Unit,Non-venomous reptile,2011,Basiliscus basiliscus,,,Valid,Valid,Valid
+Salmonella,United Kingdom,4011166,SAMEA3443766,Salmonella enterica,United Kingdom,not known,1929,missing,,,Valid,Valid,Malformed

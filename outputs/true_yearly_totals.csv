@@ -1,0 +1,133 @@
+pathogen,country,year,true_total_count
+Escherichia coli,Pakistan,2015,30
+Escherichia coli,Pakistan,2016,15
+Escherichia coli,Pakistan,2017,8
+Escherichia coli,Pakistan,2018,54
+Escherichia coli,Pakistan,2019,117
+Escherichia coli,Pakistan,2020,230
+Escherichia coli,Pakistan,2021,375
+Escherichia coli,Pakistan,2022,665
+Escherichia coli,Pakistan,2023,50
+Escherichia coli,Pakistan,2024,41
+Escherichia coli,Pakistan,2025,210
+Escherichia coli,India,2015,17
+Escherichia coli,India,2016,90
+Escherichia coli,India,2017,25
+Escherichia coli,India,2018,96
+Escherichia coli,India,2019,60
+Escherichia coli,India,2020,1418
+Escherichia coli,India,2021,507
+Escherichia coli,India,2022,536
+Escherichia coli,India,2023,320
+Escherichia coli,India,2024,348
+Escherichia coli,India,2025,1405
+Escherichia coli,Bangladesh,2015,0
+Escherichia coli,Bangladesh,2016,11
+Escherichia coli,Bangladesh,2017,125
+Escherichia coli,Bangladesh,2018,26
+Escherichia coli,Bangladesh,2019,108
+Escherichia coli,Bangladesh,2020,84
+Escherichia coli,Bangladesh,2021,330
+Escherichia coli,Bangladesh,2022,164
+Escherichia coli,Bangladesh,2023,46
+Escherichia coli,Bangladesh,2024,2455
+Escherichia coli,Bangladesh,2025,625
+Escherichia coli,United Kingdom,2015,2292
+Escherichia coli,United Kingdom,2016,3351
+Escherichia coli,United Kingdom,2017,1613
+Escherichia coli,United Kingdom,2018,3798
+Escherichia coli,United Kingdom,2019,3080
+Escherichia coli,United Kingdom,2020,3402
+Escherichia coli,United Kingdom,2021,7778
+Escherichia coli,United Kingdom,2022,7291
+Escherichia coli,United Kingdom,2023,3861
+Escherichia coli,United Kingdom,2024,15199
+Escherichia coli,United Kingdom,2025,10012
+Klebsiella pneumoniae,Pakistan,2015,141
+Klebsiella pneumoniae,Pakistan,2016,13
+Klebsiella pneumoniae,Pakistan,2017,1
+Klebsiella pneumoniae,Pakistan,2018,71
+Klebsiella pneumoniae,Pakistan,2019,0
+Klebsiella pneumoniae,Pakistan,2020,50
+Klebsiella pneumoniae,Pakistan,2021,199
+Klebsiella pneumoniae,Pakistan,2022,29
+Klebsiella pneumoniae,Pakistan,2023,121
+Klebsiella pneumoniae,Pakistan,2024,45
+Klebsiella pneumoniae,Pakistan,2025,230
+Klebsiella pneumoniae,India,2015,2
+Klebsiella pneumoniae,India,2016,29
+Klebsiella pneumoniae,India,2017,35
+Klebsiella pneumoniae,India,2018,61
+Klebsiella pneumoniae,India,2019,119
+Klebsiella pneumoniae,India,2020,537
+Klebsiella pneumoniae,India,2021,466
+Klebsiella pneumoniae,India,2022,807
+Klebsiella pneumoniae,India,2023,447
+Klebsiella pneumoniae,India,2024,497
+Klebsiella pneumoniae,India,2025,1040
+Klebsiella pneumoniae,Bangladesh,2015,0
+Klebsiella pneumoniae,Bangladesh,2016,0
+Klebsiella pneumoniae,Bangladesh,2017,4
+Klebsiella pneumoniae,Bangladesh,2018,0
+Klebsiella pneumoniae,Bangladesh,2019,5
+Klebsiella pneumoniae,Bangladesh,2020,62
+Klebsiella pneumoniae,Bangladesh,2021,63
+Klebsiella pneumoniae,Bangladesh,2022,648
+Klebsiella pneumoniae,Bangladesh,2023,19
+Klebsiella pneumoniae,Bangladesh,2024,396
+Klebsiella pneumoniae,Bangladesh,2025,987
+Klebsiella pneumoniae,United Kingdom,2015,210
+Klebsiella pneumoniae,United Kingdom,2016,98
+Klebsiella pneumoniae,United Kingdom,2017,209
+Klebsiella pneumoniae,United Kingdom,2018,70
+Klebsiella pneumoniae,United Kingdom,2019,132
+Klebsiella pneumoniae,United Kingdom,2020,820
+Klebsiella pneumoniae,United Kingdom,2021,106
+Klebsiella pneumoniae,United Kingdom,2022,2272
+Klebsiella pneumoniae,United Kingdom,2023,179
+Klebsiella pneumoniae,United Kingdom,2024,149
+Klebsiella pneumoniae,United Kingdom,2025,566
+Salmonella,Pakistan,2015,1
+Salmonella,Pakistan,2016,2
+Salmonella,Pakistan,2017,5
+Salmonella,Pakistan,2018,20
+Salmonella,Pakistan,2019,9
+Salmonella,Pakistan,2020,44
+Salmonella,Pakistan,2021,81
+Salmonella,Pakistan,2022,37
+Salmonella,Pakistan,2023,46
+Salmonella,Pakistan,2024,7
+Salmonella,Pakistan,2025,484
+Salmonella,India,2015,36
+Salmonella,India,2016,95
+Salmonella,India,2017,63
+Salmonella,India,2018,95
+Salmonella,India,2019,76
+Salmonella,India,2020,365
+Salmonella,India,2021,962
+Salmonella,India,2022,320
+Salmonella,India,2023,351
+Salmonella,India,2024,280
+Salmonella,India,2025,490
+Salmonella,Bangladesh,2015,6
+Salmonella,Bangladesh,2016,25
+Salmonella,Bangladesh,2017,9
+Salmonella,Bangladesh,2018,541
+Salmonella,Bangladesh,2019,35
+Salmonella,Bangladesh,2020,16
+Salmonella,Bangladesh,2021,16
+Salmonella,Bangladesh,2022,389
+Salmonella,Bangladesh,2023,66
+Salmonella,Bangladesh,2024,71
+Salmonella,Bangladesh,2025,45
+Salmonella,United Kingdom,2015,8527
+Salmonella,United Kingdom,2016,1594
+Salmonella,United Kingdom,2017,7146
+Salmonella,United Kingdom,2018,21208
+Salmonella,United Kingdom,2019,14264
+Salmonella,United Kingdom,2020,5632
+Salmonella,United Kingdom,2021,6777
+Salmonella,United Kingdom,2022,9083
+Salmonella,United Kingdom,2023,952
+Salmonella,United Kingdom,2024,20328
+Salmonella,United Kingdom,2025,11253
